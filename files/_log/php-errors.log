@@ -1,0 +1,1682 @@
+[2021-03-26 18:13:33] glpiphplog.WARNING: Test logger  
+[2021-03-26 18:41:24] glpiphplog.DEBUG: Html::compileScss() in C:\xampp\htdocs\glpi\inc\html.class.php line 7495
+css/dashboard.scss is new, loading  {"user":"2@DESKTOP-10B0EO1"} 
+[2021-03-26 18:41:24] glpiphplog.DEBUG: Html::compileScss() in C:\xampp\htdocs\glpi\inc\html.class.php line 7495
+css/styles.scss is new, loading  {"user":"2@DESKTOP-10B0EO1"} 
+[2021-03-26 18:41:31] glpiphplog.DEBUG: Html::compileScss() in C:\xampp\htdocs\glpi\inc\html.class.php line 7495
+css/palettes/auror.scss is new, loading  {"user":"2@DESKTOP-10B0EO1"} 
+[2021-03-31 15:43:27] glpiphplog.CRITICAL:   *** Uncaught Exception Error: Class '' not found in C:\xampp\htdocs\glpi\inc\itilsolution.class.php at line 93
+  Backtrace :
+  inc\commondbtm.class.php:2848                      ITILSolution->canCreateItem()
+  inc\api\api.class.php:1864                         CommonDBTM->can()
+  inc\api\apirest.class.php:271                      Glpi\Api\API->createItems()
+  apirest.php:53                                     Glpi\Api\APIRest->call()
+  
+[2021-03-31 15:43:40] glpiphplog.CRITICAL:   *** Uncaught Exception Error: Class '' not found in C:\xampp\htdocs\glpi\inc\itilsolution.class.php at line 93
+  Backtrace :
+  inc\commondbtm.class.php:2848                      ITILSolution->canCreateItem()
+  inc\api\api.class.php:1864                         CommonDBTM->can()
+  inc\api\apirest.class.php:271                      Glpi\Api\API->createItems()
+  apirest.php:53                                     Glpi\Api\APIRest->call()
+  
+[2021-03-31 15:44:08] glpiphplog.CRITICAL:   *** Uncaught Exception Error: Class '' not found in C:\xampp\htdocs\glpi\inc\itilsolution.class.php at line 93
+  Backtrace :
+  inc\commondbtm.class.php:2848                      ITILSolution->canCreateItem()
+  inc\api\api.class.php:1864                         CommonDBTM->can()
+  inc\api\apirest.class.php:271                      Glpi\Api\API->createItems()
+  apirest.php:53                                     Glpi\Api\APIRest->call()
+  
+[2021-03-31 15:44:34] glpiphplog.CRITICAL:   *** Uncaught Exception Error: Class '' not found in C:\xampp\htdocs\glpi\inc\itilsolution.class.php at line 93
+  Backtrace :
+  inc\commondbtm.class.php:2848                      ITILSolution->canCreateItem()
+  inc\api\api.class.php:1864                         CommonDBTM->can()
+  inc\api\apirest.class.php:271                      Glpi\Api\API->createItems()
+  apirest.php:53                                     Glpi\Api\APIRest->call()
+  
+[2021-03-31 18:12:18] glpiphplog.WARNING: Test logger  
+[2021-03-31 18:13:07] glpiphplog.DEBUG: Html::compileScss() in C:\xampp\htdocs\glpi\inc\html.class.php line 7495
+css/marketplace.scss is new, loading  {"user":"2@DESKTOP-10B0EO1"} 
+[2021-03-31 18:14:12] glpiphplog.CRITICAL:   *** Uncaught Exception TypeError: Argument 2 passed to Glpi\Marketplace\View::getPaginationHtml() must be of the type integer, string given, called in C:\xampp\htdocs\glpi\ajax\marketplace.php on line 115 in C:\xampp\htdocs\glpi\inc\marketplace\view.class.php at line 860
+  Backtrace :
+  ajax\marketplace.php:115                           Glpi\Marketplace\View::getPaginationHtml()
+  
+[2021-03-31 18:14:16] glpiphplog.CRITICAL:   *** Uncaught Exception TypeError: Argument 2 passed to Glpi\Marketplace\View::getPaginationHtml() must be of the type integer, string given, called in C:\xampp\htdocs\glpi\ajax\marketplace.php on line 115 in C:\xampp\htdocs\glpi\inc\marketplace\view.class.php at line 860
+  Backtrace :
+  ajax\marketplace.php:115                           Glpi\Marketplace\View::getPaginationHtml()
+  
+[2021-03-31 18:14:17] glpiphplog.CRITICAL:   *** Uncaught Exception TypeError: Argument 2 passed to Glpi\Marketplace\View::getPaginationHtml() must be of the type integer, string given, called in C:\xampp\htdocs\glpi\ajax\marketplace.php on line 115 in C:\xampp\htdocs\glpi\inc\marketplace\view.class.php at line 860
+  Backtrace :
+  ajax\marketplace.php:115                           Glpi\Marketplace\View::getPaginationHtml()
+  
+[2021-04-05 13:50:36] glpiphplog.CRITICAL:   *** Uncaught Exception TypeError: Argument 2 passed to Glpi\Marketplace\View::getPaginationHtml() must be of the type integer, string given, called in C:\xampp\htdocs\glpi\ajax\marketplace.php on line 115 in C:\xampp\htdocs\glpi\inc\marketplace\view.class.php at line 860
+  Backtrace :
+  ajax\marketplace.php:115                           Glpi\Marketplace\View::getPaginationHtml()
+  
+[2021-04-05 13:50:36] glpiphplog.CRITICAL:   *** Uncaught Exception TypeError: Argument 2 passed to Glpi\Marketplace\View::getPaginationHtml() must be of the type integer, string given, called in C:\xampp\htdocs\glpi\ajax\marketplace.php on line 115 in C:\xampp\htdocs\glpi\inc\marketplace\view.class.php at line 860
+  Backtrace :
+  ajax\marketplace.php:115                           Glpi\Marketplace\View::getPaginationHtml()
+  
+[2021-04-05 13:50:39] glpiphplog.CRITICAL:   *** Uncaught Exception TypeError: Argument 2 passed to Glpi\Marketplace\View::getPaginationHtml() must be of the type integer, string given, called in C:\xampp\htdocs\glpi\ajax\marketplace.php on line 115 in C:\xampp\htdocs\glpi\inc\marketplace\view.class.php at line 860
+  Backtrace :
+  ajax\marketplace.php:115                           Glpi\Marketplace\View::getPaginationHtml()
+  
+[2021-04-05 13:51:21] glpiphplog.DEBUG: Glpi\Marketplace\Api\Plugins::request() in C:\xampp\htdocs\glpi\inc\marketplace\api\plugins.class.php line 122
+Array
+  (
+      [title] => Plugins API error
+      [exception] => Client error: `GET https://services.glpi-network.com/api/glpi-plugins/tags/ticket/plugin` resulted in a `429 Too Many Requests` response:
+  {
+      "message": "Too Many Attempts."
+  }
+  
+      [request] => GET /api/glpi-plugins/tags/ticket/plugin HTTP/1.1
+  Host: services.glpi-network.com
+  Accept: application/json
+  User-Agent: GLPI/9.5.4 (installation-mode:TARBALL)
+  X-Registration-Key: eyJzdWJzY3JpcHRpb24iOjE3Mzc5LCJyIjo0MTgzNTc2NzcxMDM5NTc5Mzk1LCJzaWduYXR1cmUiOiJBTEhzVTJRTG9SSFJXRzR4bFhcL0VGMWJpaDZiRU9FMVlPM2JsR3ZSTFpqRDg3SlQ0MUdWZDVkWEc1dUVUTzVcL3g2RE1xdHpoa1puTmhxZUJqQnVGQWVFdGpBdGUwNVwvQlhvMmpGdlJKa3VZd3hxeGlMUTcyd0c5SzUxNUZxdjZNeVE3Nk90VHo5ZEdna2wreXBLNStoTVljOVBieVNXRThFZTFrdmpRMmxFbjlHTFpPMVBWZExvMzUzMDdlM2cxOHVuZ2t4VnpcL2dJRU9YNzJ3MlZGNkloNFRTcFVaSTRiVEVIQ05oXC9aYmVvdTVWMGFZMGE5YXFrUmdheHBQVjdZRXl4c1dOTEVlUWp2dXgyZVBGakJyM2FKN0srV1pKckwyajQyQkowdHhQVXJyREFiRE12cXgydVc0TjZGclNndWtoS0lzZitzTFdvdG5NVDFzYWdnPT0ifQ==
+  X-Glpi-Network-Uid: 3hgNjF3HW8GWkdFLmfqIEDrsekKx9sudP2NcKa3G
+  X-Range: 200-399
+  
+  
+      [response] => HTTP/1.1 429 Too Many Requests
+  Date: Mon, 05 Apr 2021 11:51:20 GMT
+  Server: Apache/2.4.41 (Ubuntu)
+  Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
+  X-Content-Type-Options: nosniff
+  X-RateLimit-Limit: 60
+  X-RateLimit-Remaining: 0
+  Retry-After: 27
+  X-RateLimit-Reset: 1617623507
+  Cache-Control: no-cache, private
+  Content-Length: 39
+  Content-Type: application/json
+  
+  {
+      "message": "Too Many Attempts."
+  }
+  )
+   {"user":"2@DESKTOP-10B0EO1"} 
+[2021-04-05 13:51:21] glpiphplog.ERROR: GLPINetwork::getOffers() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 312
+Unable to fetch offers informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1","mem_usage":"0.244\", 17.19Mio)"} 
+[2021-04-05 13:51:21] glpiphplog.ERROR: GLPINetwork::getOffers() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 312
+Unable to fetch offers informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1","mem_usage":"0.231\", 17.19Mio)"} 
+[2021-04-05 13:51:21] glpiphplog.ERROR: GLPINetwork::getOffers() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 312
+Unable to fetch offers informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1","mem_usage":"0.232\", 17.19Mio)"} 
+[2021-04-05 13:51:21] glpiphplog.ERROR: GLPINetwork::getOffers() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 312
+Unable to fetch offers informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1","mem_usage":"0.224\", 17.20Mio)"} 
+[2021-04-05 13:51:22] glpiphplog.ERROR: GLPINetwork::getOffers() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 312
+Unable to fetch offers informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1","mem_usage":"0.227\", 17.20Mio)"} 
+[2021-04-05 13:51:22] glpiphplog.ERROR: GLPINetwork::getOffers() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 312
+Unable to fetch offers informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1","mem_usage":"0.223\", 17.21Mio)"} 
+[2021-04-05 13:51:22] glpiphplog.ERROR: GLPINetwork::getOffers() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 312
+Unable to fetch offers informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1","mem_usage":"0.222\", 17.21Mio)"} 
+[2021-04-05 13:51:22] glpiphplog.ERROR: GLPINetwork::getOffers() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 312
+Unable to fetch offers informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1","mem_usage":"0.226\", 17.21Mio)"} 
+[2021-04-05 13:51:23] glpiphplog.ERROR: GLPINetwork::getOffers() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 312
+Unable to fetch offers informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1","mem_usage":"0.221\", 17.21Mio)"} 
+[2021-04-05 13:51:23] glpiphplog.ERROR: GLPINetwork::getOffers() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 312
+Unable to fetch offers informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1","mem_usage":"0.215\", 17.21Mio)"} 
+[2021-04-05 13:51:23] glpiphplog.ERROR: GLPINetwork::getOffers() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 312
+Unable to fetch offers informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1","mem_usage":"0.218\", 17.21Mio)"} 
+[2021-04-05 13:51:23] glpiphplog.ERROR: GLPINetwork::getOffers() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 312
+Unable to fetch offers informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1","mem_usage":"0.215\", 17.21Mio)"} 
+[2021-04-05 13:51:23] glpiphplog.ERROR: GLPINetwork::getOffers() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 312
+Unable to fetch offers informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1","mem_usage":"0.217\", 17.21Mio)"} 
+[2021-04-05 13:51:24] glpiphplog.ERROR: GLPINetwork::getOffers() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 312
+Unable to fetch offers informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1","mem_usage":"0.223\", 17.22Mio)"} 
+[2021-04-05 13:51:24] glpiphplog.ERROR: GLPINetwork::getOffers() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 312
+Unable to fetch offers informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1","mem_usage":"0.217\", 17.22Mio)"} 
+[2021-04-05 13:51:24] glpiphplog.ERROR: GLPINetwork::getOffers() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 312
+Unable to fetch offers informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1","mem_usage":"0.217\", 17.22Mio)"} 
+[2021-04-05 13:51:24] glpiphplog.ERROR: GLPINetwork::getOffers() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 312
+Unable to fetch offers informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1","mem_usage":"0.222\", 17.24Mio)"} 
+[2021-04-05 13:51:25] glpiphplog.ERROR: GLPINetwork::getOffers() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 312
+Unable to fetch offers informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1","mem_usage":"0.221\", 17.24Mio)"} 
+[2021-04-05 13:51:25] glpiphplog.ERROR: GLPINetwork::getOffers() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 312
+Unable to fetch offers informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1","mem_usage":"0.224\", 17.24Mio)"} 
+[2021-04-05 13:51:25] glpiphplog.ERROR: GLPINetwork::getOffers() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 312
+Unable to fetch offers informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1","mem_usage":"0.218\", 17.24Mio)"} 
+[2021-04-05 13:52:45] glpiphplog.ERROR: GLPINetwork::getRegistrationInformations() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 222
+Unable to fetch registration informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1"} 
+[2021-04-05 13:52:45] glpiphplog.ERROR: GLPINetwork::getRegistrationInformations() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 222
+Unable to fetch registration informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1","mem_usage":"0.234\", 16.56Mio)"} 
+[2021-04-05 13:52:45] glpiphplog.ERROR: GLPINetwork::getRegistrationInformations() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 222
+Unable to fetch registration informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1","mem_usage":"0.231\", 16.62Mio)"} 
+[2021-04-05 13:52:45] glpiphplog.ERROR: GLPINetwork::getRegistrationInformations() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 222
+Unable to fetch registration informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1","mem_usage":"0.228\", 16.62Mio)"} 
+[2021-04-05 13:52:46] glpiphplog.ERROR: GLPINetwork::getRegistrationInformations() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 222
+Unable to fetch registration informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1","mem_usage":"0.228\", 16.62Mio)"} 
+[2021-04-05 13:52:46] glpiphplog.ERROR: GLPINetwork::getOffers() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 312
+Unable to fetch offers informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1","mem_usage":"0.217\", 16.62Mio)"} 
+[2021-04-05 13:52:46] glpiphplog.ERROR: GLPINetwork::getRegistrationInformations() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 222
+Unable to fetch registration informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1","mem_usage":"0.230\", 16.62Mio)"} 
+[2021-04-05 13:52:46] glpiphplog.ERROR: GLPINetwork::getRegistrationInformations() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 222
+Unable to fetch registration informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1","mem_usage":"0.226\", 16.63Mio)"} 
+[2021-04-05 13:52:47] glpiphplog.ERROR: GLPINetwork::getOffers() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 312
+Unable to fetch offers informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1","mem_usage":"0.224\", 16.62Mio)"} 
+[2021-04-05 13:52:47] glpiphplog.ERROR: GLPINetwork::getRegistrationInformations() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 222
+Unable to fetch registration informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1","mem_usage":"0.233\", 16.63Mio)"} 
+[2021-04-05 13:52:47] glpiphplog.ERROR: GLPINetwork::getRegistrationInformations() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 222
+Unable to fetch registration informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1","mem_usage":"0.236\", 16.63Mio)"} 
+[2021-04-05 13:52:47] glpiphplog.ERROR: GLPINetwork::getRegistrationInformations() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 222
+Unable to fetch registration informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1","mem_usage":"0.233\", 16.63Mio)"} 
+[2021-04-05 13:52:47] glpiphplog.ERROR: GLPINetwork::getOffers() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 312
+Unable to fetch offers informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1","mem_usage":"0.220\", 16.63Mio)"} 
+[2021-04-05 13:52:48] glpiphplog.ERROR: GLPINetwork::getRegistrationInformations() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 222
+Unable to fetch registration informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1","mem_usage":"0.236\", 16.63Mio)"} 
+[2021-04-05 13:52:48] glpiphplog.ERROR: GLPINetwork::getRegistrationInformations() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 222
+Unable to fetch registration informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1","mem_usage":"0.227\", 16.63Mio)"} 
+[2021-04-05 13:52:48] glpiphplog.ERROR: GLPINetwork::getOffers() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 312
+Unable to fetch offers informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1","mem_usage":"0.211\", 16.63Mio)"} 
+[2021-04-05 13:52:48] glpiphplog.ERROR: GLPINetwork::getRegistrationInformations() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 222
+Unable to fetch registration informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1","mem_usage":"0.227\", 16.64Mio)"} 
+[2021-04-05 13:52:49] glpiphplog.ERROR: GLPINetwork::getRegistrationInformations() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 222
+Unable to fetch registration informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1","mem_usage":"0.230\", 16.64Mio)"} 
+[2021-04-05 13:52:49] glpiphplog.ERROR: GLPINetwork::getRegistrationInformations() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 222
+Unable to fetch registration informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1","mem_usage":"0.239\", 16.64Mio)"} 
+[2021-04-05 13:52:49] glpiphplog.ERROR: GLPINetwork::getOffers() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 312
+Unable to fetch offers informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1","mem_usage":"0.219\", 16.63Mio)"} 
+[2021-04-05 13:52:49] glpiphplog.ERROR: GLPINetwork::getRegistrationInformations() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 222
+Unable to fetch registration informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1","mem_usage":"0.248\", 16.64Mio)"} 
+[2021-04-05 13:53:30] glpiphplog.ERROR: GLPINetwork::getOffers() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 312
+Unable to fetch offers informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1"} 
+[2021-04-05 13:53:30] glpiphplog.ERROR: GLPINetwork::getOffers() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 312
+Unable to fetch offers informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1","mem_usage":"0.230\", 17.14Mio)"} 
+[2021-04-05 13:53:30] glpiphplog.ERROR: GLPINetwork::getOffers() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 312
+Unable to fetch offers informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1","mem_usage":"0.216\", 17.14Mio)"} 
+[2021-04-05 13:53:31] glpiphplog.ERROR: GLPINetwork::getOffers() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 312
+Unable to fetch offers informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1","mem_usage":"0.221\", 17.14Mio)"} 
+[2021-04-05 13:53:31] glpiphplog.ERROR: GLPINetwork::getRegistrationInformations() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 222
+Unable to fetch registration informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1","mem_usage":"0.233\", 17.14Mio)"} 
+[2021-04-05 13:53:31] glpiphplog.ERROR: GLPINetwork::getOffers() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 312
+Unable to fetch offers informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1","mem_usage":"0.221\", 17.14Mio)"} 
+[2021-04-05 13:53:31] glpiphplog.ERROR: GLPINetwork::getRegistrationInformations() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 222
+Unable to fetch registration informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1","mem_usage":"0.228\", 17.14Mio)"} 
+[2021-04-05 13:54:26] glpiphplog.ERROR: GLPINetwork::getOffers() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 312
+Unable to fetch offers informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1"} 
+[2021-04-05 13:54:26] glpiphplog.ERROR: GLPINetwork::getOffers() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 312
+Unable to fetch offers informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1","mem_usage":"0.225\", 17.11Mio)"} 
+[2021-04-05 13:54:26] glpiphplog.ERROR: GLPINetwork::getOffers() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 312
+Unable to fetch offers informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1","mem_usage":"0.223\", 17.11Mio)"} 
+[2021-04-05 13:54:26] glpiphplog.ERROR: GLPINetwork::getRegistrationInformations() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 222
+Unable to fetch registration informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1","mem_usage":"0.233\", 17.11Mio)"} 
+[2021-04-05 13:54:26] glpiphplog.ERROR: GLPINetwork::getOffers() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 312
+Unable to fetch offers informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1","mem_usage":"0.211\", 17.11Mio)"} 
+[2021-04-05 13:54:27] glpiphplog.ERROR: GLPINetwork::getOffers() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 312
+Unable to fetch offers informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1","mem_usage":"0.219\", 17.11Mio)"} 
+[2021-04-05 13:54:27] glpiphplog.ERROR: GLPINetwork::getRegistrationInformations() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 222
+Unable to fetch registration informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1","mem_usage":"0.225\", 17.11Mio)"} 
+[2021-04-05 13:54:27] glpiphplog.ERROR: GLPINetwork::getOffers() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 312
+Unable to fetch offers informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1","mem_usage":"0.211\", 17.11Mio)"} 
+[2021-04-05 13:54:28] glpiphplog.ERROR: GLPINetwork::getOffers() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 312
+Unable to fetch offers informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1","mem_usage":"0.512\", 17.11Mio)"} 
+[2021-04-05 13:54:28] glpiphplog.ERROR: GLPINetwork::getOffers() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 312
+Unable to fetch offers informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1","mem_usage":"0.214\", 17.11Mio)"} 
+[2021-04-05 13:54:28] glpiphplog.ERROR: GLPINetwork::getOffers() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 312
+Unable to fetch offers informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1","mem_usage":"0.219\", 17.12Mio)"} 
+[2021-04-05 13:54:28] glpiphplog.ERROR: GLPINetwork::getOffers() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 312
+Unable to fetch offers informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1","mem_usage":"0.218\", 17.12Mio)"} 
+[2021-04-05 13:54:28] glpiphplog.ERROR: GLPINetwork::getOffers() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 312
+Unable to fetch offers informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1","mem_usage":"0.218\", 17.13Mio)"} 
+[2021-04-05 13:54:29] glpiphplog.ERROR: GLPINetwork::getRegistrationInformations() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 222
+Unable to fetch registration informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1","mem_usage":"0.225\", 17.13Mio)"} 
+[2021-04-05 13:54:29] glpiphplog.ERROR: GLPINetwork::getOffers() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 312
+Unable to fetch offers informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1","mem_usage":"0.222\", 17.13Mio)"} 
+[2021-04-05 13:54:29] glpiphplog.ERROR: GLPINetwork::getOffers() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 312
+Unable to fetch offers informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1","mem_usage":"0.219\", 17.14Mio)"} 
+[2021-04-05 13:54:29] glpiphplog.ERROR: GLPINetwork::getOffers() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 312
+Unable to fetch offers informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1","mem_usage":"0.217\", 17.14Mio)"} 
+[2021-04-05 13:54:30] glpiphplog.ERROR: GLPINetwork::getOffers() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 312
+Unable to fetch offers informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1","mem_usage":"0.219\", 17.14Mio)"} 
+[2021-04-05 13:54:30] glpiphplog.ERROR: GLPINetwork::getRegistrationInformations() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 222
+Unable to fetch registration informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1","mem_usage":"0.228\", 17.14Mio)"} 
+[2021-04-05 13:54:30] glpiphplog.ERROR: GLPINetwork::getOffers() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 312
+Unable to fetch offers informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1","mem_usage":"0.218\", 17.14Mio)"} 
+[2021-04-05 13:54:30] glpiphplog.ERROR: GLPINetwork::getRegistrationInformations() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 222
+Unable to fetch registration informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1","mem_usage":"0.221\", 17.14Mio)"} 
+[2021-04-05 14:12:31] glpiphplog.ALERT:   *** PHP Compile Error (64): Cannot redeclare plugin_init_gappessentials() (previously declared in C:\xampp\htdocs\glpi\marketplace\gappessentials\setup.php:41) in C:\xampp\htdocs\glpi\plugins\gappessentials-1.2.0\setup.php at line 44  
+[2021-04-05 14:12:34] glpiphplog.ALERT:   *** PHP Compile Error (64): Cannot redeclare plugin_init_gappessentials() (previously declared in C:\xampp\htdocs\glpi\marketplace\gappessentials\setup.php:41) in C:\xampp\htdocs\glpi\plugins\gappessentials-1.2.0\setup.php at line 44  
+[2021-04-05 14:12:50] glpiphplog.ALERT:   *** PHP Compile Error (64): Cannot redeclare plugin_init_gappessentials() (previously declared in C:\xampp\htdocs\glpi\marketplace\gappessentials\setup.php:41) in C:\xampp\htdocs\glpi\plugins\gappessentials-1.2.0\setup.php at line 44  
+[2021-04-05 14:14:11] glpiphplog.ERROR: GLPINetwork::getOffers() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 312
+Unable to fetch offers informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1"} 
+[2021-04-05 14:14:11] glpiphplog.ERROR: GLPINetwork::getOffers() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 312
+Unable to fetch offers informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1","mem_usage":"0.218\", 17.17Mio)"} 
+[2021-04-05 14:14:11] glpiphplog.ERROR: GLPINetwork::getOffers() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 312
+Unable to fetch offers informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1","mem_usage":"0.216\", 17.18Mio)"} 
+[2021-04-05 14:14:12] glpiphplog.ERROR: GLPINetwork::getOffers() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 312
+Unable to fetch offers informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1","mem_usage":"0.219\", 17.18Mio)"} 
+[2021-04-05 14:14:12] glpiphplog.ERROR: GLPINetwork::getOffers() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 312
+Unable to fetch offers informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1","mem_usage":"0.215\", 17.18Mio)"} 
+[2021-04-05 14:14:12] glpiphplog.ERROR: GLPINetwork::getOffers() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 312
+Unable to fetch offers informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1","mem_usage":"0.213\", 17.18Mio)"} 
+[2021-04-05 14:14:12] glpiphplog.ERROR: GLPINetwork::getOffers() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 312
+Unable to fetch offers informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1","mem_usage":"0.217\", 17.19Mio)"} 
+[2021-04-05 14:14:12] glpiphplog.ERROR: GLPINetwork::getOffers() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 312
+Unable to fetch offers informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1","mem_usage":"0.213\", 17.19Mio)"} 
+[2021-04-05 14:14:13] glpiphplog.ERROR: GLPINetwork::getOffers() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 312
+Unable to fetch offers informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1","mem_usage":"0.222\", 17.19Mio)"} 
+[2021-04-05 14:14:13] glpiphplog.ERROR: GLPINetwork::getOffers() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 312
+Unable to fetch offers informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1","mem_usage":"0.216\", 17.19Mio)"} 
+[2021-04-05 14:14:13] glpiphplog.ERROR: GLPINetwork::getOffers() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 312
+Unable to fetch offers informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1","mem_usage":"0.226\", 17.19Mio)"} 
+[2021-04-05 14:14:13] glpiphplog.ERROR: GLPINetwork::getOffers() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 312
+Unable to fetch offers informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1","mem_usage":"0.210\", 17.19Mio)"} 
+[2021-04-05 14:14:14] glpiphplog.ERROR: GLPINetwork::getOffers() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 312
+Unable to fetch offers informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1","mem_usage":"0.227\", 17.19Mio)"} 
+[2021-04-05 14:14:14] glpiphplog.ERROR: GLPINetwork::getOffers() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 312
+Unable to fetch offers informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1","mem_usage":"0.211\", 17.19Mio)"} 
+[2021-04-05 14:14:14] glpiphplog.ERROR: GLPINetwork::getOffers() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 312
+Unable to fetch offers informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1","mem_usage":"0.215\", 17.21Mio)"} 
+[2021-04-05 14:14:14] glpiphplog.ERROR: GLPINetwork::getOffers() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 312
+Unable to fetch offers informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1","mem_usage":"0.217\", 17.21Mio)"} 
+[2021-04-05 14:14:14] glpiphplog.ERROR: GLPINetwork::getOffers() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 312
+Unable to fetch offers informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1","mem_usage":"0.219\", 17.21Mio)"} 
+[2021-04-05 14:14:15] glpiphplog.ERROR: GLPINetwork::getOffers() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 312
+Unable to fetch offers informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1","mem_usage":"0.220\", 17.21Mio)"} 
+[2021-04-05 14:14:20] glpiphplog.ERROR: GLPINetwork::getRegistrationInformations() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 222
+Unable to fetch registration informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1"} 
+[2021-04-05 14:14:27] glpiphplog.ERROR: GLPINetwork::getRegistrationInformations() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 222
+Unable to fetch registration informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1"} 
+[2021-04-05 14:14:27] glpiphplog.ERROR: GLPINetwork::getRegistrationInformations() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 222
+Unable to fetch registration informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1","mem_usage":"0.239\", 16.37Mio)"} 
+[2021-04-05 14:14:28] glpiphplog.ERROR: GLPINetwork::getRegistrationInformations() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 222
+Unable to fetch registration informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1","mem_usage":"0.231\", 16.45Mio)"} 
+[2021-04-05 14:14:28] glpiphplog.ERROR: GLPINetwork::getRegistrationInformations() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 222
+Unable to fetch registration informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1","mem_usage":"0.232\", 16.45Mio)"} 
+[2021-04-05 14:14:28] glpiphplog.ERROR: GLPINetwork::getOffers() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 312
+Unable to fetch offers informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1","mem_usage":"0.220\", 16.45Mio)"} 
+[2021-04-05 14:14:29] glpiphplog.ERROR: GLPINetwork::getRegistrationInformations() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 222
+Unable to fetch registration informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1","mem_usage":"0.539\", 16.45Mio)"} 
+[2021-04-05 14:14:29] glpiphplog.ERROR: GLPINetwork::getRegistrationInformations() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 222
+Unable to fetch registration informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1","mem_usage":"0.226\", 16.50Mio)"} 
+[2021-04-05 14:14:29] glpiphplog.ERROR: GLPINetwork::getOffers() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 312
+Unable to fetch offers informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1","mem_usage":"0.224\", 16.50Mio)"} 
+[2021-04-05 15:15:18] glpiphplog.ERROR: GLPINetwork::getOffers() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 312
+Unable to fetch offers informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1"} 
+[2021-04-05 15:15:18] glpiphplog.ERROR: GLPINetwork::getOffers() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 312
+Unable to fetch offers informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1","mem_usage":"0.210\", 17.11Mio)"} 
+[2021-04-05 15:15:18] glpiphplog.ERROR: GLPINetwork::getOffers() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 312
+Unable to fetch offers informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1","mem_usage":"0.305\", 17.11Mio)"} 
+[2021-04-05 15:15:19] glpiphplog.ERROR: GLPINetwork::getOffers() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 312
+Unable to fetch offers informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1","mem_usage":"0.216\", 17.12Mio)"} 
+[2021-04-05 15:15:19] glpiphplog.ERROR: GLPINetwork::getOffers() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 312
+Unable to fetch offers informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1","mem_usage":"0.219\", 17.11Mio)"} 
+[2021-04-05 15:15:19] glpiphplog.ERROR: GLPINetwork::getOffers() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 312
+Unable to fetch offers informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1","mem_usage":"0.220\", 17.12Mio)"} 
+[2021-04-05 15:15:19] glpiphplog.ERROR: GLPINetwork::getOffers() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 312
+Unable to fetch offers informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1","mem_usage":"0.220\", 17.12Mio)"} 
+[2021-04-05 15:15:20] glpiphplog.ERROR: GLPINetwork::getOffers() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 312
+Unable to fetch offers informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1","mem_usage":"0.227\", 17.12Mio)"} 
+[2021-04-05 15:15:20] glpiphplog.ERROR: GLPINetwork::getOffers() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 312
+Unable to fetch offers informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1","mem_usage":"0.224\", 17.14Mio)"} 
+[2021-04-05 15:15:20] glpiphplog.ERROR: GLPINetwork::getOffers() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 312
+Unable to fetch offers informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1","mem_usage":"0.226\", 17.14Mio)"} 
+[2021-04-05 17:15:12] glpiphplog.ERROR: GLPINetwork::getOffers() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 312
+Unable to fetch offers informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1"} 
+[2021-04-05 17:15:12] glpiphplog.ERROR: GLPINetwork::getOffers() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 312
+Unable to fetch offers informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1","mem_usage":"0.270\", 17.11Mio)"} 
+[2021-04-05 17:15:12] glpiphplog.ERROR: GLPINetwork::getRegistrationInformations() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 222
+Unable to fetch registration informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1","mem_usage":"0.223\", 17.11Mio)"} 
+[2021-04-05 17:15:12] glpiphplog.ERROR: GLPINetwork::getOffers() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 312
+Unable to fetch offers informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1","mem_usage":"0.217\", 17.11Mio)"} 
+[2021-04-05 17:15:13] glpiphplog.ERROR: GLPINetwork::getOffers() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 312
+Unable to fetch offers informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1","mem_usage":"0.216\", 17.11Mio)"} 
+[2021-04-05 17:15:13] glpiphplog.ERROR: GLPINetwork::getOffers() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 312
+Unable to fetch offers informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1","mem_usage":"0.237\", 17.11Mio)"} 
+[2021-04-05 17:15:13] glpiphplog.ERROR: GLPINetwork::getOffers() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 312
+Unable to fetch offers informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1","mem_usage":"0.284\", 17.12Mio)"} 
+[2021-04-05 17:15:13] glpiphplog.ERROR: GLPINetwork::getOffers() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 312
+Unable to fetch offers informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1","mem_usage":"0.223\", 17.12Mio)"} 
+[2021-04-05 17:15:14] glpiphplog.ERROR: GLPINetwork::getOffers() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 312
+Unable to fetch offers informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1","mem_usage":"0.220\", 17.12Mio)"} 
+[2021-04-05 17:15:14] glpiphplog.ERROR: GLPINetwork::getRegistrationInformations() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 222
+Unable to fetch registration informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1","mem_usage":"0.237\", 17.13Mio)"} 
+[2021-04-05 17:15:14] glpiphplog.ERROR: GLPINetwork::getOffers() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 312
+Unable to fetch offers informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1","mem_usage":"0.229\", 17.13Mio)"} 
+[2021-04-05 17:15:14] glpiphplog.ERROR: GLPINetwork::getOffers() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 312
+Unable to fetch offers informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1","mem_usage":"0.230\", 17.14Mio)"} 
+[2021-04-05 17:15:14] glpiphplog.ERROR: GLPINetwork::getOffers() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 312
+Unable to fetch offers informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1","mem_usage":"0.235\", 17.14Mio)"} 
+[2021-04-05 17:15:15] glpiphplog.ERROR: GLPINetwork::getOffers() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 312
+Unable to fetch offers informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1","mem_usage":"0.222\", 17.14Mio)"} 
+[2021-04-05 17:15:15] glpiphplog.ERROR: GLPINetwork::getRegistrationInformations() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 222
+Unable to fetch registration informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1","mem_usage":"0.231\", 17.14Mio)"} 
+[2021-04-05 17:15:15] glpiphplog.ERROR: GLPINetwork::getOffers() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 312
+Unable to fetch offers informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1","mem_usage":"0.226\", 17.14Mio)"} 
+[2021-04-05 17:15:17] glpiphplog.ERROR: GLPINetwork::getRegistrationInformations() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 222
+Unable to fetch registration informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1"} 
+[2021-04-05 17:15:18] glpiphplog.ERROR: GLPINetwork::getRegistrationInformations() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 222
+Unable to fetch registration informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1"} 
+[2021-04-05 17:15:18] glpiphplog.ERROR: GLPINetwork::getRegistrationInformations() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 222
+Unable to fetch registration informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1"} 
+[2021-04-05 17:15:19] glpiphplog.CRITICAL:   *** Uncaught Exception TypeError: Argument 2 passed to Glpi\Marketplace\View::getPaginationHtml() must be of the type integer, string given, called in C:\xampp\htdocs\glpi\ajax\marketplace.php on line 115 in C:\xampp\htdocs\glpi\inc\marketplace\view.class.php at line 860
+  Backtrace :
+  ajax\marketplace.php:115                           Glpi\Marketplace\View::getPaginationHtml()
+  
+[2021-04-05 17:15:19] glpiphplog.CRITICAL:   *** Uncaught Exception TypeError: Argument 2 passed to Glpi\Marketplace\View::getPaginationHtml() must be of the type integer, string given, called in C:\xampp\htdocs\glpi\ajax\marketplace.php on line 115 in C:\xampp\htdocs\glpi\inc\marketplace\view.class.php at line 860
+  Backtrace :
+  ajax\marketplace.php:115                           Glpi\Marketplace\View::getPaginationHtml()
+  
+[2021-04-05 17:15:20] glpiphplog.CRITICAL:   *** Uncaught Exception TypeError: Argument 2 passed to Glpi\Marketplace\View::getPaginationHtml() must be of the type integer, string given, called in C:\xampp\htdocs\glpi\ajax\marketplace.php on line 115 in C:\xampp\htdocs\glpi\inc\marketplace\view.class.php at line 860
+  Backtrace :
+  ajax\marketplace.php:115                           Glpi\Marketplace\View::getPaginationHtml()
+  
+[2021-04-12 00:22:51] glpiphplog.NOTICE:   *** PHP Notice (8): Undefined index: status in C:\xampp\htdocs\glpi\inc\ticket.class.php at line 7054
+  Backtrace :
+  inc\massiveaction.class.php:615                    Ticket->getWhitelistedSingleMassiveActions()
+  inc\massiveaction.class.php:125                    MassiveAction::getAllMassiveActions()
+  ajax\massiveaction.php:45                          MassiveAction->__construct()
+  
+[2021-04-23 20:50:33] glpiphplog.ERROR: GLPINetwork::getRegistrationInformations() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 222
+Unable to fetch registration informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1"} 
+[2021-04-23 20:50:39] glpiphplog.ERROR: GLPINetwork::getRegistrationInformations() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 222
+Unable to fetch registration informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1"} 
+[2021-04-23 20:50:39] glpiphplog.CRITICAL:   *** Uncaught Exception TypeError: Argument 2 passed to Glpi\Marketplace\View::getPaginationHtml() must be of the type integer, string given, called in C:\xampp\htdocs\glpi\ajax\marketplace.php on line 115 in C:\xampp\htdocs\glpi\inc\marketplace\view.class.php at line 860
+  Backtrace :
+  ajax\marketplace.php:115                           Glpi\Marketplace\View::getPaginationHtml()
+  
+[2021-04-23 20:50:41] glpiphplog.ERROR: GLPINetwork::getRegistrationInformations() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 222
+Unable to fetch registration informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1"} 
+[2021-04-23 20:50:42] glpiphplog.CRITICAL:   *** Uncaught Exception TypeError: Argument 2 passed to Glpi\Marketplace\View::getPaginationHtml() must be of the type integer, string given, called in C:\xampp\htdocs\glpi\ajax\marketplace.php on line 115 in C:\xampp\htdocs\glpi\inc\marketplace\view.class.php at line 860
+  Backtrace :
+  ajax\marketplace.php:115                           Glpi\Marketplace\View::getPaginationHtml()
+  
+[2021-04-23 20:50:44] glpiphplog.ERROR: GLPINetwork::getRegistrationInformations() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 222
+Unable to fetch registration informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1"} 
+[2021-04-23 20:50:44] glpiphplog.CRITICAL:   *** Uncaught Exception TypeError: Argument 2 passed to Glpi\Marketplace\View::getPaginationHtml() must be of the type integer, string given, called in C:\xampp\htdocs\glpi\ajax\marketplace.php on line 115 in C:\xampp\htdocs\glpi\inc\marketplace\view.class.php at line 860
+  Backtrace :
+  ajax\marketplace.php:115                           Glpi\Marketplace\View::getPaginationHtml()
+  
+[2021-04-23 20:50:44] glpiphplog.ERROR: GLPINetwork::getRegistrationInformations() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 222
+Unable to fetch registration informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1"} 
+[2021-04-23 20:50:45] glpiphplog.CRITICAL:   *** Uncaught Exception TypeError: Argument 2 passed to Glpi\Marketplace\View::getPaginationHtml() must be of the type integer, string given, called in C:\xampp\htdocs\glpi\ajax\marketplace.php on line 115 in C:\xampp\htdocs\glpi\inc\marketplace\view.class.php at line 860
+  Backtrace :
+  ajax\marketplace.php:115                           Glpi\Marketplace\View::getPaginationHtml()
+  
+[2021-04-23 20:50:50] glpiphplog.ERROR: GLPINetwork::getRegistrationInformations() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 222
+Unable to fetch registration informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1"} 
+[2021-04-23 20:50:50] glpiphplog.CRITICAL:   *** Uncaught Exception TypeError: Argument 2 passed to Glpi\Marketplace\View::getPaginationHtml() must be of the type integer, string given, called in C:\xampp\htdocs\glpi\ajax\marketplace.php on line 115 in C:\xampp\htdocs\glpi\inc\marketplace\view.class.php at line 860
+  Backtrace :
+  ajax\marketplace.php:115                           Glpi\Marketplace\View::getPaginationHtml()
+  
+[2021-04-23 20:51:26] glpiphplog.ERROR: GLPINetwork::getOffers() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 312
+Unable to fetch offers informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1"} 
+[2021-04-23 20:51:26] glpiphplog.ERROR: GLPINetwork::getOffers() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 312
+Unable to fetch offers informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1","mem_usage":"0.221\", 17.19Mio)"} 
+[2021-04-23 20:51:27] glpiphplog.ERROR: GLPINetwork::getOffers() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 312
+Unable to fetch offers informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1","mem_usage":"0.217\", 17.20Mio)"} 
+[2021-04-23 20:51:27] glpiphplog.ERROR: GLPINetwork::getOffers() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 312
+Unable to fetch offers informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1","mem_usage":"0.216\", 17.20Mio)"} 
+[2021-04-23 20:51:27] glpiphplog.ERROR: GLPINetwork::getOffers() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 312
+Unable to fetch offers informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1","mem_usage":"0.237\", 17.20Mio)"} 
+[2021-04-23 20:51:27] glpiphplog.ERROR: GLPINetwork::getOffers() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 312
+Unable to fetch offers informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1","mem_usage":"0.210\", 17.20Mio)"} 
+[2021-04-23 20:51:28] glpiphplog.ERROR: GLPINetwork::getOffers() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 312
+Unable to fetch offers informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1","mem_usage":"0.216\", 17.20Mio)"} 
+[2021-04-23 20:51:28] glpiphplog.ERROR: GLPINetwork::getOffers() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 312
+Unable to fetch offers informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1","mem_usage":"0.223\", 17.20Mio)"} 
+[2021-04-23 20:51:28] glpiphplog.ERROR: GLPINetwork::getOffers() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 312
+Unable to fetch offers informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1","mem_usage":"0.221\", 17.20Mio)"} 
+[2021-04-23 20:51:28] glpiphplog.ERROR: GLPINetwork::getOffers() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 312
+Unable to fetch offers informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1","mem_usage":"0.217\", 17.20Mio)"} 
+[2021-04-23 20:51:28] glpiphplog.ERROR: GLPINetwork::getOffers() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 312
+Unable to fetch offers informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1","mem_usage":"0.231\", 17.22Mio)"} 
+[2021-04-23 20:51:29] glpiphplog.ERROR: GLPINetwork::getRegistrationInformations() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 222
+Unable to fetch registration informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1","mem_usage":"0.363\", 17.22Mio)"} 
+[2021-04-23 20:51:29] glpiphplog.ERROR: GLPINetwork::getOffers() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 312
+Unable to fetch offers informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1","mem_usage":"0.236\", 17.22Mio)"} 
+[2021-04-23 20:51:29] glpiphplog.ERROR: GLPINetwork::getOffers() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 312
+Unable to fetch offers informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1","mem_usage":"0.207\", 17.22Mio)"} 
+[2021-04-23 20:51:29] glpiphplog.ERROR: GLPINetwork::getOffers() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 312
+Unable to fetch offers informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1","mem_usage":"0.212\", 17.22Mio)"} 
+[2021-04-23 20:51:30] glpiphplog.ERROR: GLPINetwork::getRegistrationInformations() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 222
+Unable to fetch registration informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1"} 
+[2021-04-23 20:51:31] glpiphplog.ERROR: GLPINetwork::getRegistrationInformations() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 222
+Unable to fetch registration informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1"} 
+[2021-04-23 20:51:31] glpiphplog.CRITICAL:   *** Uncaught Exception TypeError: Argument 2 passed to Glpi\Marketplace\View::getPaginationHtml() must be of the type integer, string given, called in C:\xampp\htdocs\glpi\ajax\marketplace.php on line 115 in C:\xampp\htdocs\glpi\inc\marketplace\view.class.php at line 860
+  Backtrace :
+  ajax\marketplace.php:115                           Glpi\Marketplace\View::getPaginationHtml()
+  
+[2021-04-23 20:51:31] glpiphplog.CRITICAL:   *** Uncaught Exception TypeError: Argument 2 passed to Glpi\Marketplace\View::getPaginationHtml() must be of the type integer, string given, called in C:\xampp\htdocs\glpi\ajax\marketplace.php on line 115 in C:\xampp\htdocs\glpi\inc\marketplace\view.class.php at line 860
+  Backtrace :
+  ajax\marketplace.php:115                           Glpi\Marketplace\View::getPaginationHtml()
+  
+[2021-04-23 20:51:35] glpiphplog.ERROR: GLPINetwork::getRegistrationInformations() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 222
+Unable to fetch registration informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1"} 
+[2021-04-23 20:51:35] glpiphplog.CRITICAL:   *** Uncaught Exception TypeError: Argument 2 passed to Glpi\Marketplace\View::getPaginationHtml() must be of the type integer, string given, called in C:\xampp\htdocs\glpi\ajax\marketplace.php on line 115 in C:\xampp\htdocs\glpi\inc\marketplace\view.class.php at line 860
+  Backtrace :
+  ajax\marketplace.php:115                           Glpi\Marketplace\View::getPaginationHtml()
+  
+[2021-04-23 20:51:37] glpiphplog.ERROR: GLPINetwork::getRegistrationInformations() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 222
+Unable to fetch registration informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1"} 
+[2021-04-23 20:51:37] glpiphplog.CRITICAL:   *** Uncaught Exception TypeError: Argument 2 passed to Glpi\Marketplace\View::getPaginationHtml() must be of the type integer, string given, called in C:\xampp\htdocs\glpi\ajax\marketplace.php on line 115 in C:\xampp\htdocs\glpi\inc\marketplace\view.class.php at line 860
+  Backtrace :
+  ajax\marketplace.php:115                           Glpi\Marketplace\View::getPaginationHtml()
+  
+[2021-04-23 20:51:51] glpiphplog.ERROR: GLPINetwork::getRegistrationInformations() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 222
+Unable to fetch registration informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1"} 
+[2021-04-23 20:51:51] glpiphplog.CRITICAL:   *** Uncaught Exception TypeError: Argument 2 passed to Glpi\Marketplace\View::getPaginationHtml() must be of the type integer, string given, called in C:\xampp\htdocs\glpi\ajax\marketplace.php on line 115 in C:\xampp\htdocs\glpi\inc\marketplace\view.class.php at line 860
+  Backtrace :
+  ajax\marketplace.php:115                           Glpi\Marketplace\View::getPaginationHtml()
+  
+[2021-04-23 20:51:54] glpiphplog.ERROR: GLPINetwork::getRegistrationInformations() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 222
+Unable to fetch registration informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1"} 
+[2021-04-23 20:51:55] glpiphplog.CRITICAL:   *** Uncaught Exception TypeError: Argument 2 passed to Glpi\Marketplace\View::getPaginationHtml() must be of the type integer, string given, called in C:\xampp\htdocs\glpi\ajax\marketplace.php on line 115 in C:\xampp\htdocs\glpi\inc\marketplace\view.class.php at line 860
+  Backtrace :
+  ajax\marketplace.php:115                           Glpi\Marketplace\View::getPaginationHtml()
+  
+[2021-04-23 20:52:21] glpiphplog.ERROR: GLPINetwork::getOffers() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 312
+Unable to fetch offers informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1"} 
+[2021-04-23 20:52:21] glpiphplog.ERROR: GLPINetwork::getRegistrationInformations() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 222
+Unable to fetch registration informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1","mem_usage":"0.227\", 17.18Mio)"} 
+[2021-04-23 20:52:21] glpiphplog.ERROR: GLPINetwork::getOffers() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 312
+Unable to fetch offers informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1","mem_usage":"0.214\", 17.18Mio)"} 
+[2021-04-23 20:52:21] glpiphplog.ERROR: GLPINetwork::getOffers() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 312
+Unable to fetch offers informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1","mem_usage":"0.211\", 17.18Mio)"} 
+[2021-04-23 20:52:22] glpiphplog.ERROR: GLPINetwork::getRegistrationInformations() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 222
+Unable to fetch registration informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1","mem_usage":"0.225\", 17.18Mio)"} 
+[2021-04-23 20:52:22] glpiphplog.ERROR: GLPINetwork::getOffers() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 312
+Unable to fetch offers informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1","mem_usage":"0.224\", 17.18Mio)"} 
+[2021-04-23 20:52:22] glpiphplog.ERROR: GLPINetwork::getOffers() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 312
+Unable to fetch offers informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1","mem_usage":"0.246\", 17.18Mio)"} 
+[2021-04-23 20:52:22] glpiphplog.ERROR: GLPINetwork::getOffers() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 312
+Unable to fetch offers informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1","mem_usage":"0.249\", 17.18Mio)"} 
+[2021-04-23 20:52:23] glpiphplog.ERROR: GLPINetwork::getOffers() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 312
+Unable to fetch offers informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1","mem_usage":"0.247\", 17.19Mio)"} 
+[2021-04-23 20:52:23] glpiphplog.ERROR: GLPINetwork::getOffers() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 312
+Unable to fetch offers informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1","mem_usage":"0.231\", 17.19Mio)"} 
+[2021-04-23 20:52:23] glpiphplog.ERROR: GLPINetwork::getOffers() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 312
+Unable to fetch offers informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1","mem_usage":"0.248\", 17.20Mio)"} 
+[2021-04-23 20:52:23] glpiphplog.ERROR: GLPINetwork::getRegistrationInformations() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 222
+Unable to fetch registration informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1","mem_usage":"0.227\", 17.20Mio)"} 
+[2021-04-23 20:52:23] glpiphplog.ERROR: GLPINetwork::getOffers() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 312
+Unable to fetch offers informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1","mem_usage":"0.227\", 17.20Mio)"} 
+[2021-04-23 20:52:24] glpiphplog.ERROR: GLPINetwork::getOffers() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 312
+Unable to fetch offers informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1","mem_usage":"0.218\", 17.21Mio)"} 
+[2021-04-23 20:52:24] glpiphplog.ERROR: GLPINetwork::getOffers() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 312
+Unable to fetch offers informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1","mem_usage":"0.230\", 17.21Mio)"} 
+[2021-04-23 20:52:24] glpiphplog.ERROR: GLPINetwork::getOffers() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 312
+Unable to fetch offers informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1","mem_usage":"0.217\", 17.21Mio)"} 
+[2021-04-23 20:52:24] glpiphplog.ERROR: GLPINetwork::getRegistrationInformations() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 222
+Unable to fetch registration informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1","mem_usage":"0.226\", 17.21Mio)"} 
+[2021-04-23 20:52:25] glpiphplog.ERROR: GLPINetwork::getOffers() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 312
+Unable to fetch offers informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1","mem_usage":"0.236\", 17.21Mio)"} 
+[2021-04-23 20:52:25] glpiphplog.ERROR: GLPINetwork::getRegistrationInformations() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 222
+Unable to fetch registration informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1","mem_usage":"0.224\", 17.21Mio)"} 
+[2021-04-23 20:52:37] glpiphplog.ERROR: GLPINetwork::getRegistrationInformations() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 222
+Unable to fetch registration informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1"} 
+[2021-04-23 20:52:39] glpiphplog.ERROR: GLPINetwork::getRegistrationInformations() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 222
+Unable to fetch registration informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1"} 
+[2021-04-23 20:52:39] glpiphplog.ERROR: GLPINetwork::getRegistrationInformations() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 222
+Unable to fetch registration informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1","mem_usage":"0.274\", 16.34Mio)"} 
+[2021-04-23 20:52:39] glpiphplog.ERROR: GLPINetwork::getRegistrationInformations() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 222
+Unable to fetch registration informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1","mem_usage":"0.277\", 16.42Mio)"} 
+[2021-04-23 20:52:40] glpiphplog.ERROR: GLPINetwork::getRegistrationInformations() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 222
+Unable to fetch registration informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1","mem_usage":"0.222\", 16.42Mio)"} 
+[2021-04-23 20:52:40] glpiphplog.ERROR: GLPINetwork::getOffers() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 312
+Unable to fetch offers informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1","mem_usage":"0.282\", 16.42Mio)"} 
+[2021-04-23 20:52:40] glpiphplog.ERROR: GLPINetwork::getRegistrationInformations() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 222
+Unable to fetch registration informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1","mem_usage":"0.226\", 16.42Mio)"} 
+[2021-04-23 20:52:40] glpiphplog.ERROR: GLPINetwork::getRegistrationInformations() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 222
+Unable to fetch registration informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1","mem_usage":"0.237\", 16.47Mio)"} 
+[2021-04-23 20:52:41] glpiphplog.ERROR: GLPINetwork::getOffers() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 312
+Unable to fetch offers informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1","mem_usage":"0.212\", 16.47Mio)"} 
+[2021-04-23 20:53:37] glpiphplog.ERROR: GLPINetwork::getOffers() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 312
+Unable to fetch offers informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1"} 
+[2021-04-23 20:53:37] glpiphplog.ERROR: GLPINetwork::getOffers() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 312
+Unable to fetch offers informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1","mem_usage":"0.218\", 17.12Mio)"} 
+[2021-04-23 20:53:37] glpiphplog.ERROR: GLPINetwork::getOffers() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 312
+Unable to fetch offers informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1","mem_usage":"0.230\", 17.13Mio)"} 
+[2021-04-23 20:53:37] glpiphplog.ERROR: GLPINetwork::getOffers() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 312
+Unable to fetch offers informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1","mem_usage":"0.209\", 17.13Mio)"} 
+[2021-04-23 20:53:38] glpiphplog.ERROR: GLPINetwork::getOffers() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 312
+Unable to fetch offers informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1","mem_usage":"0.211\", 17.13Mio)"} 
+[2021-04-23 20:53:38] glpiphplog.ERROR: GLPINetwork::getOffers() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 312
+Unable to fetch offers informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1","mem_usage":"0.229\", 17.13Mio)"} 
+[2021-04-23 20:53:38] glpiphplog.ERROR: GLPINetwork::getOffers() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 312
+Unable to fetch offers informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1","mem_usage":"0.215\", 17.13Mio)"} 
+[2021-04-23 20:53:38] glpiphplog.ERROR: GLPINetwork::getOffers() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 312
+Unable to fetch offers informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1","mem_usage":"0.240\", 17.14Mio)"} 
+[2021-04-23 20:53:38] glpiphplog.ERROR: GLPINetwork::getOffers() in C:\xampp\htdocs\glpi\inc\glpinetwork.class.php line 312
+Unable to fetch offers informations. NULL {
+    "message": "Too Many Attempts."
+}  {"user":"2@DESKTOP-10B0EO1","mem_usage":"0.224\", 17.14Mio)"} 
+[2021-11-19 18:05:16] glpiphplog.WARNING:   *** PHP Warning (2): mysqli::query(): MySQL server has gone away in C:\xampp\htdocs\glpi\inc\dbmysql.class.php at line 302
+  Backtrace :
+  inc\dbmysql.class.php:302                          mysqli->query()
+  inc\dbmysql.class.php:691                          DBmysql->query()
+  inc\dbmysql.class.php:1032                         DBmysql->listFields()
+  inc\dashboard\grid.class.php:1190                  DBmysql->fieldExists()
+  inc\dashboard\grid.class.php:1226                  Glpi\Dashboard\Grid->Glpi\Dashboard\{closure}()
+  inc\dashboard\grid.class.php:998                   Glpi\Dashboard\Grid->getAllDasboardCards()
+  ajax\dashboard.php:108                             Glpi\Dashboard\Grid->getCardHtml()
+  
+[2021-11-19 18:05:16] glpiphplog.WARNING:   *** PHP Warning (2): mysqli::query(): Error reading result set's header in C:\xampp\htdocs\glpi\inc\dbmysql.class.php at line 302
+  Backtrace :
+  inc\dbmysql.class.php:302                          mysqli->query()
+  inc\dbmysql.class.php:691                          DBmysql->query()
+  inc\dbmysql.class.php:1032                         DBmysql->listFields()
+  inc\dashboard\grid.class.php:1190                  DBmysql->fieldExists()
+  inc\dashboard\grid.class.php:1226                  Glpi\Dashboard\Grid->Glpi\Dashboard\{closure}()
+  inc\dashboard\grid.class.php:998                   Glpi\Dashboard\Grid->getAllDasboardCards()
+  ajax\dashboard.php:108                             Glpi\Dashboard\Grid->getCardHtml()
+  
+[2021-11-19 18:05:17] glpiphplog.WARNING:   *** PHP Warning (2): mysqli::query(): MySQL server has gone away in C:\xampp\htdocs\glpi\inc\dbmysql.class.php at line 302
+  Backtrace :
+  inc\dbmysql.class.php:302                          mysqli->query()
+  inc\dbmysql.class.php:691                          DBmysql->query()
+  inc\dbmysql.class.php:1032                         DBmysql->listFields()
+  inc\dashboard\grid.class.php:1190                  DBmysql->fieldExists()
+  inc\dashboard\grid.class.php:1226                  Glpi\Dashboard\Grid->Glpi\Dashboard\{closure}()
+  inc\dashboard\grid.class.php:998                   Glpi\Dashboard\Grid->getAllDasboardCards()
+  ajax\dashboard.php:108                             Glpi\Dashboard\Grid->getCardHtml()
+  
+[2021-11-19 18:05:17] glpiphplog.WARNING:   *** PHP Warning (2): mysqli::query(): Error reading result set's header in C:\xampp\htdocs\glpi\inc\dbmysql.class.php at line 302
+  Backtrace :
+  inc\dbmysql.class.php:302                          mysqli->query()
+  inc\dbmysql.class.php:691                          DBmysql->query()
+  inc\dbmysql.class.php:1032                         DBmysql->listFields()
+  inc\dashboard\grid.class.php:1190                  DBmysql->fieldExists()
+  inc\dashboard\grid.class.php:1226                  Glpi\Dashboard\Grid->Glpi\Dashboard\{closure}()
+  inc\dashboard\grid.class.php:998                   Glpi\Dashboard\Grid->getAllDasboardCards()
+  ajax\dashboard.php:108                             Glpi\Dashboard\Grid->getCardHtml()
+  
+[2021-11-19 18:05:17] glpiphplog.WARNING:   *** PHP Warning (2): mysqli::query(): MySQL server has gone away in C:\xampp\htdocs\glpi\inc\dbmysql.class.php at line 302
+  Backtrace :
+  inc\dbmysql.class.php:302                          mysqli->query()
+  inc\dbmysql.class.php:691                          DBmysql->query()
+  inc\dbmysql.class.php:1032                         DBmysql->listFields()
+  inc\dashboard\grid.class.php:1190                  DBmysql->fieldExists()
+  inc\dashboard\grid.class.php:1226                  Glpi\Dashboard\Grid->Glpi\Dashboard\{closure}()
+  inc\dashboard\grid.class.php:998                   Glpi\Dashboard\Grid->getAllDasboardCards()
+  ajax\dashboard.php:108                             Glpi\Dashboard\Grid->getCardHtml()
+  
+[2021-11-19 18:05:17] glpiphplog.WARNING:   *** PHP Warning (2): mysqli::query(): Error reading result set's header in C:\xampp\htdocs\glpi\inc\dbmysql.class.php at line 302
+  Backtrace :
+  inc\dbmysql.class.php:302                          mysqli->query()
+  inc\dbmysql.class.php:691                          DBmysql->query()
+  inc\dbmysql.class.php:1032                         DBmysql->listFields()
+  inc\dashboard\grid.class.php:1190                  DBmysql->fieldExists()
+  inc\dashboard\grid.class.php:1226                  Glpi\Dashboard\Grid->Glpi\Dashboard\{closure}()
+  inc\dashboard\grid.class.php:998                   Glpi\Dashboard\Grid->getAllDasboardCards()
+  ajax\dashboard.php:108                             Glpi\Dashboard\Grid->getCardHtml()
+  
+[2021-11-19 18:05:17] glpiphplog.WARNING:   *** PHP Warning (2): mysqli::query(): MySQL server has gone away in C:\xampp\htdocs\glpi\inc\dbmysql.class.php at line 302
+  Backtrace :
+  inc\dbmysql.class.php:302                          mysqli->query()
+  inc\dbmysql.class.php:691                          DBmysql->query()
+  inc\dbmysql.class.php:1032                         DBmysql->listFields()
+  inc\dashboard\grid.class.php:1190                  DBmysql->fieldExists()
+  inc\dashboard\grid.class.php:1226                  Glpi\Dashboard\Grid->Glpi\Dashboard\{closure}()
+  inc\dashboard\grid.class.php:998                   Glpi\Dashboard\Grid->getAllDasboardCards()
+  ajax\dashboard.php:108                             Glpi\Dashboard\Grid->getCardHtml()
+  
+[2021-11-19 18:05:17] glpiphplog.WARNING:   *** PHP Warning (2): mysqli::query(): Error reading result set's header in C:\xampp\htdocs\glpi\inc\dbmysql.class.php at line 302
+  Backtrace :
+  inc\dbmysql.class.php:302                          mysqli->query()
+  inc\dbmysql.class.php:691                          DBmysql->query()
+  inc\dbmysql.class.php:1032                         DBmysql->listFields()
+  inc\dashboard\grid.class.php:1190                  DBmysql->fieldExists()
+  inc\dashboard\grid.class.php:1226                  Glpi\Dashboard\Grid->Glpi\Dashboard\{closure}()
+  inc\dashboard\grid.class.php:998                   Glpi\Dashboard\Grid->getAllDasboardCards()
+  ajax\dashboard.php:108                             Glpi\Dashboard\Grid->getCardHtml()
+  
+[2021-11-19 18:05:17] glpiphplog.WARNING:   *** PHP Warning (2): mysqli::query(): MySQL server has gone away in C:\xampp\htdocs\glpi\inc\dbmysql.class.php at line 302
+  Backtrace :
+  inc\dbmysql.class.php:302                          mysqli->query()
+  inc\dbmysql.class.php:691                          DBmysql->query()
+  inc\dbmysql.class.php:1032                         DBmysql->listFields()
+  inc\dashboard\grid.class.php:1190                  DBmysql->fieldExists()
+  inc\dashboard\grid.class.php:1226                  Glpi\Dashboard\Grid->Glpi\Dashboard\{closure}()
+  inc\dashboard\grid.class.php:998                   Glpi\Dashboard\Grid->getAllDasboardCards()
+  ajax\dashboard.php:108                             Glpi\Dashboard\Grid->getCardHtml()
+  
+[2021-11-19 18:05:17] glpiphplog.WARNING:   *** PHP Warning (2): mysqli::query(): Error reading result set's header in C:\xampp\htdocs\glpi\inc\dbmysql.class.php at line 302
+  Backtrace :
+  inc\dbmysql.class.php:302                          mysqli->query()
+  inc\dbmysql.class.php:691                          DBmysql->query()
+  inc\dbmysql.class.php:1032                         DBmysql->listFields()
+  inc\dashboard\grid.class.php:1190                  DBmysql->fieldExists()
+  inc\dashboard\grid.class.php:1226                  Glpi\Dashboard\Grid->Glpi\Dashboard\{closure}()
+  inc\dashboard\grid.class.php:998                   Glpi\Dashboard\Grid->getAllDasboardCards()
+  ajax\dashboard.php:108                             Glpi\Dashboard\Grid->getCardHtml()
+  
+[2021-11-19 18:05:17] glpiphplog.WARNING:   *** PHP Warning (2): mysqli::query(): MySQL server has gone away in C:\xampp\htdocs\glpi\inc\dbmysql.class.php at line 302
+  Backtrace :
+  inc\dbmysql.class.php:302                          mysqli->query()
+  inc\dbmysql.class.php:691                          DBmysql->query()
+  inc\dbmysql.class.php:1032                         DBmysql->listFields()
+  inc\dashboard\grid.class.php:1190                  DBmysql->fieldExists()
+  inc\dashboard\grid.class.php:1226                  Glpi\Dashboard\Grid->Glpi\Dashboard\{closure}()
+  inc\dashboard\grid.class.php:998                   Glpi\Dashboard\Grid->getAllDasboardCards()
+  ajax\dashboard.php:108                             Glpi\Dashboard\Grid->getCardHtml()
+  
+[2021-11-19 18:05:17] glpiphplog.WARNING:   *** PHP Warning (2): mysqli::query(): Error reading result set's header in C:\xampp\htdocs\glpi\inc\dbmysql.class.php at line 302
+  Backtrace :
+  inc\dbmysql.class.php:302                          mysqli->query()
+  inc\dbmysql.class.php:691                          DBmysql->query()
+  inc\dbmysql.class.php:1032                         DBmysql->listFields()
+  inc\dashboard\grid.class.php:1190                  DBmysql->fieldExists()
+  inc\dashboard\grid.class.php:1226                  Glpi\Dashboard\Grid->Glpi\Dashboard\{closure}()
+  inc\dashboard\grid.class.php:998                   Glpi\Dashboard\Grid->getAllDasboardCards()
+  ajax\dashboard.php:108                             Glpi\Dashboard\Grid->getCardHtml()
+  
+[2021-11-24 12:20:17] glpiphplog.WARNING:   *** PHP Warning (2): mysqli::real_connect(): (HY000/1045): Access denied for user 'aziz'@'localhost' (using password: YES) in C:\xampp\htdocs\glpi\inc\dbmysql.class.php at line 185
+  Backtrace :
+  inc\dbmysql.class.php:185                          mysqli->real_connect()
+  inc\dbmysql.class.php:147                          DBmysql->connect()
+  inc\dbconnection.class.php:192                     DBmysql->__construct()
+  inc\dbconnection.class.php:274                     DBConnection::switchToMaster()
+  inc\config.php:85                                  DBConnection::establishDBConnection()
+  inc\includes.php:48                                include_once()
+  index.php:55                                       include()
+  
+[2021-11-24 12:22:04] glpiphplog.WARNING:   *** PHP Warning (2): mysqli::real_connect(): (HY000/1045): Access denied for user 'aziz'@'localhost' (using password: YES) in C:\xampp\htdocs\glpi\inc\dbmysql.class.php at line 185
+  Backtrace :
+  inc\dbmysql.class.php:185                          mysqli->real_connect()
+  inc\dbmysql.class.php:147                          DBmysql->connect()
+  inc\dbconnection.class.php:192                     DBmysql->__construct()
+  inc\dbconnection.class.php:274                     DBConnection::switchToMaster()
+  inc\config.php:85                                  DBConnection::establishDBConnection()
+  inc\includes.php:48                                include_once()
+  index.php:55                                       include()
+  
+[2021-11-24 12:22:07] glpiphplog.WARNING:   *** PHP Warning (2): mysqli::real_connect(): (HY000/1045): Access denied for user 'aziz'@'localhost' (using password: YES) in C:\xampp\htdocs\glpi\inc\dbmysql.class.php at line 185
+  Backtrace :
+  inc\dbmysql.class.php:185                          mysqli->real_connect()
+  inc\dbmysql.class.php:147                          DBmysql->connect()
+  inc\dbconnection.class.php:192                     DBmysql->__construct()
+  inc\dbconnection.class.php:274                     DBConnection::switchToMaster()
+  inc\config.php:85                                  DBConnection::establishDBConnection()
+  inc\includes.php:48                                include_once()
+  index.php:55                                       include()
+  
+[2021-11-24 12:24:02] glpiphplog.WARNING:   *** PHP Warning (2): mysqli::real_connect(): (HY000/1045): Access denied for user 'aziz'@'localhost' (using password: YES) in C:\xampp\htdocs\glpi\inc\dbmysql.class.php at line 185
+  Backtrace :
+  inc\dbmysql.class.php:185                          mysqli->real_connect()
+  inc\dbmysql.class.php:147                          DBmysql->connect()
+  inc\dbconnection.class.php:192                     DBmysql->__construct()
+  inc\dbconnection.class.php:274                     DBConnection::switchToMaster()
+  inc\config.php:85                                  DBConnection::establishDBConnection()
+  inc\includes.php:48                                include_once()
+  index.php:55                                       include()
+  
+[2021-11-24 12:25:48] glpiphplog.WARNING:   *** PHP Warning (2): mysqli::real_connect(): (HY000/1045): Access denied for user 'aziz'@'localhost' (using password: YES) in C:\xampp\htdocs\glpi\inc\dbmysql.class.php at line 185
+  Backtrace :
+  inc\dbmysql.class.php:185                          mysqli->real_connect()
+  inc\dbmysql.class.php:147                          DBmysql->connect()
+  inc\dbconnection.class.php:192                     DBmysql->__construct()
+  inc\dbconnection.class.php:274                     DBConnection::switchToMaster()
+  inc\config.php:85                                  DBConnection::establishDBConnection()
+  inc\includes.php:48                                include_once()
+  index.php:55                                       include()
+  
+[2021-11-24 12:29:09] glpiphplog.WARNING:   *** PHP Warning (2): mysqli::real_connect(): (HY000/1045): Access denied for user 'aziz'@'localhost' (using password: YES) in C:\xampp\htdocs\glpi\inc\dbmysql.class.php at line 185
+  Backtrace :
+  inc\dbmysql.class.php:185                          mysqli->real_connect()
+  inc\dbmysql.class.php:147                          DBmysql->connect()
+  inc\dbconnection.class.php:192                     DBmysql->__construct()
+  inc\dbconnection.class.php:274                     DBConnection::switchToMaster()
+  inc\config.php:85                                  DBConnection::establishDBConnection()
+  inc\includes.php:48                                include_once()
+  index.php:55                                       include()
+  
+[2021-11-24 12:32:38] glpiphplog.WARNING:   *** PHP Warning (2): mysqli::real_connect(): (HY000/1045): Access denied for user 'aziz'@'localhost' (using password: YES) in C:\xampp\htdocs\glpi\inc\dbmysql.class.php at line 185
+  Backtrace :
+  inc\dbmysql.class.php:185                          mysqli->real_connect()
+  inc\dbmysql.class.php:147                          DBmysql->connect()
+  inc\dbconnection.class.php:192                     DBmysql->__construct()
+  inc\dbconnection.class.php:274                     DBConnection::switchToMaster()
+  inc\config.php:85                                  DBConnection::establishDBConnection()
+  inc\includes.php:48                                include_once()
+  index.php:55                                       include()
+  
+[2021-12-01 14:03:22] glpiphplog.WARNING:   *** PHP Warning (2): mysqli::real_connect(): (HY000/2002): Aucune connexion n�a pu �tre �tablie car l�ordinateur cible l�a express�ment refus�e.
+ in C:\xampp\htdocs\glpi\inc\dbmysql.class.php at line 185
+  Backtrace :
+  inc\dbmysql.class.php:185                          mysqli->real_connect()
+  inc\dbmysql.class.php:147                          DBmysql->connect()
+  inc\dbconnection.class.php:192                     DBmysql->__construct()
+  inc\dbconnection.class.php:274                     DBConnection::switchToMaster()
+  inc\config.php:85                                  DBConnection::establishDBConnection()
+  inc\includes.php:48                                include_once()
+  index.php:55                                       include()
+  
+[2021-12-04 14:34:38] glpiphplog.CRITICAL:   *** Uncaught Exception ParseError: syntax error, unexpected 'include' (T_INCLUDE) in C:\xampp\htdocs\glpi\plugins\notification\hook.php at line 8
+  Backtrace :
+  inc\plugin.class.php:1549                          Plugin::includeHook()
+  inc\search.class.php:6991                          Plugin::getAddSearchOptions()
+  inc\log.class.php:116                              Search::getOptions()
+  inc\commondbtm.class.php:576                       Log::constructHistory()
+  inc\commondbtm.class.php:1540                      CommonDBTM->updateInDB()
+  inc\user.class.php:5127                            CommonDBTM->update()
+  inc\auth.class.php:971                             User->getAuthToken()
+  front\login.php:84                                 Auth->login()
+  
+[2021-12-04 14:35:02] glpiphplog.CRITICAL:   *** Uncaught Exception ParseError: syntax error, unexpected 'include' (T_INCLUDE) in C:\xampp\htdocs\glpi\plugins\notification\hook.php at line 8
+  Backtrace :
+  inc\plugin.class.php:1549                          Plugin::includeHook()
+  inc\search.class.php:6991                          Plugin::getAddSearchOptions()
+  inc\log.class.php:116                              Search::getOptions()
+  inc\commondbtm.class.php:576                       Log::constructHistory()
+  inc\commondbtm.class.php:1540                      CommonDBTM->updateInDB()
+  inc\user.class.php:5127                            CommonDBTM->update()
+  inc\auth.class.php:971                             User->getAuthToken()
+  front\login.php:84                                 Auth->login()
+  
+[2021-12-04 14:35:24] glpiphplog.CRITICAL:   *** Uncaught Exception ParseError: syntax error, unexpected 'include' (T_INCLUDE) in C:\xampp\htdocs\glpi\plugins\notification\hook.php at line 8
+  Backtrace :
+  inc\plugin.class.php:1549                          Plugin::includeHook()
+  inc\search.class.php:6991                          Plugin::getAddSearchOptions()
+  inc\log.class.php:116                              Search::getOptions()
+  inc\commondbtm.class.php:576                       Log::constructHistory()
+  inc\commondbtm.class.php:1540                      CommonDBTM->updateInDB()
+  inc\user.class.php:5127                            CommonDBTM->update()
+  inc\auth.class.php:971                             User->getAuthToken()
+  front\login.php:84                                 Auth->login()
+  
+[2021-12-04 14:35:53] glpiphplog.CRITICAL:   *** Uncaught Exception ParseError: syntax error, unexpected 'include' (T_INCLUDE) in C:\xampp\htdocs\glpi\plugins\notification\hook.php at line 8
+  Backtrace :
+  inc\plugin.class.php:1549                          Plugin::includeHook()
+  inc\search.class.php:6991                          Plugin::getAddSearchOptions()
+  inc\log.class.php:116                              Search::getOptions()
+  inc\commondbtm.class.php:576                       Log::constructHistory()
+  inc\commondbtm.class.php:1540                      CommonDBTM->updateInDB()
+  inc\user.class.php:5127                            CommonDBTM->update()
+  inc\auth.class.php:971                             User->getAuthToken()
+  front\login.php:84                                 Auth->login()
+  
+[2021-12-04 14:36:13] glpiphplog.CRITICAL:   *** Uncaught Exception ParseError: syntax error, unexpected 'include' (T_INCLUDE) in C:\xampp\htdocs\glpi\plugins\notification\hook.php at line 8
+  Backtrace :
+  inc\plugin.class.php:1424                          Plugin::includeHook()
+  inc\plugin.class.php:1445                          Plugin::doOneHook()
+  inc\dropdown.class.php:990                         Plugin::getDropdowns()
+  inc\commondropdown.class.php:107                   Dropdown::getStandardDropdownItemTypes()
+  inc\html.class.php:1587                            CommonDropdown::getMenuContent()
+  inc\html.class.php:6980                            Html::generateMenuSession()
+  inc\html.class.php:1706                            Html::displayMainMenu()
+  front\central.php:81                               Html::header()
+  
+[2021-12-04 14:36:18] glpiphplog.CRITICAL:   *** Uncaught Exception ParseError: syntax error, unexpected 'include' (T_INCLUDE) in C:\xampp\htdocs\glpi\plugins\notification\hook.php at line 8
+  Backtrace :
+  inc\plugin.class.php:1424                          Plugin::includeHook()
+  inc\plugin.class.php:1445                          Plugin::doOneHook()
+  inc\dropdown.class.php:990                         Plugin::getDropdowns()
+  inc\commondropdown.class.php:107                   Dropdown::getStandardDropdownItemTypes()
+  inc\html.class.php:1587                            CommonDropdown::getMenuContent()
+  inc\html.class.php:6980                            Html::generateMenuSession()
+  inc\html.class.php:1706                            Html::displayMainMenu()
+  front\central.php:81                               Html::header()
+  
+[2021-12-04 14:36:43] glpiphplog.CRITICAL:   *** Uncaught Exception ParseError: syntax error, unexpected 'include' (T_INCLUDE) in C:\xampp\htdocs\glpi\plugins\notification\hook.php at line 8
+  Backtrace :
+  inc\plugin.class.php:1424                          Plugin::includeHook()
+  inc\plugin.class.php:1445                          Plugin::doOneHook()
+  inc\dropdown.class.php:990                         Plugin::getDropdowns()
+  inc\commondropdown.class.php:107                   Dropdown::getStandardDropdownItemTypes()
+  inc\html.class.php:1587                            CommonDropdown::getMenuContent()
+  inc\html.class.php:6980                            Html::generateMenuSession()
+  inc\html.class.php:1706                            Html::displayMainMenu()
+  front\preference.php:65                            Html::header()
+  
+[2021-12-05 10:42:30] glpiphplog.CRITICAL:   *** Uncaught Exception ParseError: syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in C:\xampp\htdocs\glpi\plugins\notification\hook.php at line 5
+  Backtrace :
+  inc\plugin.class.php:1549                          Plugin::includeHook()
+  inc\search.class.php:6991                          Plugin::getAddSearchOptions()
+  inc\itiltemplate.class.php:260                     Search::getOptions()
+  inc\commonitilobject.class.php:1599                ITILTemplate->getAllowedFieldsNames()
+  inc\ticket.class.php:1544                          CommonITILObject->prepareInputForAdd()
+  inc\commondbtm.class.php:1110                      Ticket->prepareInputForAdd()
+  front\ticket.form.php:63                           CommonDBTM->add()
+  
+[2021-12-05 10:42:49] glpiphplog.CRITICAL:   *** Uncaught Exception ParseError: syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in C:\xampp\htdocs\glpi\plugins\notification\hook.php at line 5
+  Backtrace :
+  inc\plugin.class.php:1549                          Plugin::includeHook()
+  inc\search.class.php:6991                          Plugin::getAddSearchOptions()
+  inc\itiltemplate.class.php:260                     Search::getOptions()
+  inc\commonitilobject.class.php:1599                ITILTemplate->getAllowedFieldsNames()
+  inc\ticket.class.php:1544                          CommonITILObject->prepareInputForAdd()
+  inc\commondbtm.class.php:1110                      Ticket->prepareInputForAdd()
+  front\ticket.form.php:63                           CommonDBTM->add()
+  
+[2021-12-05 10:43:10] glpiphplog.CRITICAL:   *** Uncaught Exception ParseError: syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in C:\xampp\htdocs\glpi\plugins\notification\hook.php at line 5
+  Backtrace :
+  inc\plugin.class.php:1549                          Plugin::includeHook()
+  inc\search.class.php:6991                          Plugin::getAddSearchOptions()
+  inc\itiltemplate.class.php:260                     Search::getOptions()
+  inc\commonitilobject.class.php:1599                ITILTemplate->getAllowedFieldsNames()
+  inc\ticket.class.php:1544                          CommonITILObject->prepareInputForAdd()
+  inc\commondbtm.class.php:1110                      Ticket->prepareInputForAdd()
+  front\ticket.form.php:63                           CommonDBTM->add()
+  
+[2021-12-05 10:43:36] glpiphplog.CRITICAL:   *** Uncaught Exception ParseError: syntax error, unexpected '=>' (T_DOUBLE_ARROW) in C:\xampp\htdocs\glpi\plugins\notification\setup.php at line 10
+  Backtrace :
+  inc\plugin.class.php:1507                          Plugin->{closure}()
+  inc\plugin.class.php:438                           Plugin->getInformationsFromDirectory()
+  inc\plugin.class.php:421                           Plugin->checkPluginState()
+  inc\plugin.class.php:208                           Plugin->checkStates()
+  inc\includes.php:106                               Plugin->init()
+  front\ticket.form.php:35                           include()
+  
+[2021-12-05 10:43:44] glpiphplog.CRITICAL:   *** Uncaught Exception ParseError: syntax error, unexpected '=>' (T_DOUBLE_ARROW) in C:\xampp\htdocs\glpi\plugins\notification\setup.php at line 10
+  Backtrace :
+  inc\plugin.class.php:1507                          Plugin->{closure}()
+  inc\plugin.class.php:438                           Plugin->getInformationsFromDirectory()
+  inc\plugin.class.php:421                           Plugin->checkPluginState()
+  inc\plugin.class.php:208                           Plugin->checkStates()
+  inc\includes.php:106                               Plugin->init()
+  front\ticket.form.php:35                           include()
+  
+[2021-12-05 10:43:44] glpiphplog.CRITICAL:   *** Uncaught Exception ParseError: syntax error, unexpected '=>' (T_DOUBLE_ARROW) in C:\xampp\htdocs\glpi\plugins\notification\setup.php at line 10
+  Backtrace :
+  inc\plugin.class.php:1507                          Plugin->{closure}()
+  inc\plugin.class.php:438                           Plugin->getInformationsFromDirectory()
+  inc\plugin.class.php:421                           Plugin->checkPluginState()
+  inc\plugin.class.php:208                           Plugin->checkStates()
+  inc\includes.php:106                               Plugin->init()
+  front\ticket.form.php:35                           include()
+  
+[2021-12-05 10:44:12] glpiphplog.CRITICAL:   *** Uncaught Exception ParseError: syntax error, unexpected '=>' (T_DOUBLE_ARROW) in C:\xampp\htdocs\glpi\plugins\notification\setup.php at line 10
+  Backtrace :
+  inc\plugin.class.php:1507                          Plugin->{closure}()
+  inc\plugin.class.php:438                           Plugin->getInformationsFromDirectory()
+  inc\plugin.class.php:421                           Plugin->checkPluginState()
+  inc\plugin.class.php:208                           Plugin->checkStates()
+  inc\includes.php:106                               Plugin->init()
+  front\central.php:33                               include()
+  
+[2021-12-05 10:44:14] glpiphplog.CRITICAL:   *** Uncaught Exception ParseError: syntax error, unexpected '=>' (T_DOUBLE_ARROW) in C:\xampp\htdocs\glpi\plugins\notification\setup.php at line 10
+  Backtrace :
+  inc\plugin.class.php:1507                          Plugin->{closure}()
+  inc\plugin.class.php:438                           Plugin->getInformationsFromDirectory()
+  inc\plugin.class.php:421                           Plugin->checkPluginState()
+  inc\plugin.class.php:208                           Plugin->checkStates()
+  inc\includes.php:106                               Plugin->init()
+  front\central.php:33                               include()
+  
+[2021-12-05 10:44:57] glpiphplog.CRITICAL:   *** Uncaught Exception ParseError: syntax error, unexpected '=>' (T_DOUBLE_ARROW) in C:\xampp\htdocs\glpi\plugins\notification\setup.php at line 10
+  Backtrace :
+  inc\plugin.class.php:1507                          Plugin->{closure}()
+  inc\plugin.class.php:438                           Plugin->getInformationsFromDirectory()
+  inc\plugin.class.php:421                           Plugin->checkPluginState()
+  inc\plugin.class.php:208                           Plugin->checkStates()
+  inc\includes.php:106                               Plugin->init()
+  index.php:55                                       include()
+  
+[2021-12-05 10:45:05] glpiphplog.CRITICAL:   *** Uncaught Exception ParseError: syntax error, unexpected '=>' (T_DOUBLE_ARROW) in C:\xampp\htdocs\glpi\plugins\notification\setup.php at line 10
+  Backtrace :
+  inc\plugin.class.php:1507                          Plugin->{closure}()
+  inc\plugin.class.php:438                           Plugin->getInformationsFromDirectory()
+  inc\plugin.class.php:421                           Plugin->checkPluginState()
+  inc\plugin.class.php:208                           Plugin->checkStates()
+  inc\includes.php:106                               Plugin->init()
+  index.php:55                                       include()
+  
+[2021-12-05 10:45:55] glpiphplog.CRITICAL:   *** Uncaught Exception ParseError: syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in C:\xampp\htdocs\glpi\plugins\notification\hook.php at line 5
+  Backtrace :
+  inc\plugin.class.php:1549                          Plugin::includeHook()
+  inc\search.class.php:6991                          Plugin::getAddSearchOptions()
+  inc\itiltemplate.class.php:260                     Search::getOptions()
+  inc\commonitilobject.class.php:1599                ITILTemplate->getAllowedFieldsNames()
+  inc\ticket.class.php:1544                          CommonITILObject->prepareInputForAdd()
+  inc\commondbtm.class.php:1110                      Ticket->prepareInputForAdd()
+  front\ticket.form.php:63                           CommonDBTM->add()
+  
+[2021-12-05 10:46:16] glpiphplog.CRITICAL:   *** Uncaught Exception ParseError: syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in C:\xampp\htdocs\glpi\plugins\notification\hook.php at line 5
+  Backtrace :
+  inc\plugin.class.php:1549                          Plugin::includeHook()
+  inc\search.class.php:6991                          Plugin::getAddSearchOptions()
+  inc\itiltemplate.class.php:260                     Search::getOptions()
+  inc\commonitilobject.class.php:1599                ITILTemplate->getAllowedFieldsNames()
+  inc\ticket.class.php:1544                          CommonITILObject->prepareInputForAdd()
+  inc\commondbtm.class.php:1110                      Ticket->prepareInputForAdd()
+  front\ticket.form.php:63                           CommonDBTM->add()
+  
+[2021-12-05 22:38:19] glpiphplog.CRITICAL:   *** Uncaught Exception ParseError: syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in C:\xampp\htdocs\glpi\plugins\notification\hook.php at line 5
+  Backtrace :
+  inc\plugin.class.php:269                           Plugin::includeHook()
+  inc\plugin.class.php:776                           Plugin::load()
+  :                                                  Plugin->activate()
+  inc\marketplace\controller.class.php:460           call_user_func()
+  inc\marketplace\controller.class.php:405           Glpi\Marketplace\Controller->setPluginState()
+  ajax\marketplace.php:83                            Glpi\Marketplace\Controller->enablePlugin()
+  
+[2021-12-05 22:38:37] glpiphplog.CRITICAL:   *** Uncaught Exception ParseError: syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in C:\xampp\htdocs\glpi\plugins\notification\hook.php at line 5
+  Backtrace :
+  inc\plugin.class.php:269                           Plugin::includeHook()
+  inc\plugin.class.php:776                           Plugin::load()
+  :                                                  Plugin->activate()
+  inc\marketplace\controller.class.php:460           call_user_func()
+  inc\marketplace\controller.class.php:405           Glpi\Marketplace\Controller->setPluginState()
+  ajax\marketplace.php:83                            Glpi\Marketplace\Controller->enablePlugin()
+  
+[2021-12-05 22:41:48] glpiphplog.CRITICAL:   *** Uncaught Exception ParseError: syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in C:\xampp\htdocs\glpi\plugins\notification\hook.php at line 5
+  Backtrace :
+  inc\plugin.class.php:269                           Plugin::includeHook()
+  inc\plugin.class.php:776                           Plugin::load()
+  :                                                  Plugin->activate()
+  inc\marketplace\controller.class.php:460           call_user_func()
+  inc\marketplace\controller.class.php:405           Glpi\Marketplace\Controller->setPluginState()
+  ajax\marketplace.php:83                            Glpi\Marketplace\Controller->enablePlugin()
+  
+[2021-12-05 22:41:58] glpiphplog.CRITICAL:   *** Uncaught Exception ParseError: syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in C:\xampp\htdocs\glpi\plugins\notification\hook.php at line 5
+  Backtrace :
+  inc\plugin.class.php:269                           Plugin::includeHook()
+  inc\plugin.class.php:776                           Plugin::load()
+  :                                                  Plugin->activate()
+  inc\marketplace\controller.class.php:460           call_user_func()
+  inc\marketplace\controller.class.php:405           Glpi\Marketplace\Controller->setPluginState()
+  ajax\marketplace.php:83                            Glpi\Marketplace\Controller->enablePlugin()
+  
+[2021-12-05 22:41:58] glpiphplog.CRITICAL:   *** Uncaught Exception ParseError: syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in C:\xampp\htdocs\glpi\plugins\notification\hook.php at line 5
+  Backtrace :
+  inc\plugin.class.php:269                           Plugin::includeHook()
+  inc\plugin.class.php:776                           Plugin::load()
+  :                                                  Plugin->activate()
+  inc\marketplace\controller.class.php:460           call_user_func()
+  inc\marketplace\controller.class.php:405           Glpi\Marketplace\Controller->setPluginState()
+  ajax\marketplace.php:83                            Glpi\Marketplace\Controller->enablePlugin()
+  
+[2021-12-05 22:42:47] glpiphplog.CRITICAL:   *** Uncaught Exception ParseError: syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in C:\xampp\htdocs\glpi\plugins\notification\hook.php at line 5
+  Backtrace :
+  inc\plugin.class.php:269                           Plugin::includeHook()
+  inc\plugin.class.php:776                           Plugin::load()
+  :                                                  Plugin->activate()
+  inc\marketplace\controller.class.php:460           call_user_func()
+  inc\marketplace\controller.class.php:405           Glpi\Marketplace\Controller->setPluginState()
+  ajax\marketplace.php:83                            Glpi\Marketplace\Controller->enablePlugin()
+  
+[2021-12-05 22:43:00] glpiphplog.CRITICAL:   *** Uncaught Exception ParseError: syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in C:\xampp\htdocs\glpi\plugins\notification\hook.php at line 5
+  Backtrace :
+  inc\plugin.class.php:269                           Plugin::includeHook()
+  inc\plugin.class.php:660                           Plugin::load()
+  :                                                  Plugin->uninstall()
+  inc\marketplace\controller.class.php:460           call_user_func()
+  inc\marketplace\controller.class.php:395           Glpi\Marketplace\Controller->setPluginState()
+  ajax\marketplace.php:80                            Glpi\Marketplace\Controller->uninstallPlugin()
+  
+[2021-12-05 22:43:37] glpiphplog.CRITICAL:   *** Uncaught Exception ParseError: syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in C:\xampp\htdocs\glpi\plugins\notification\hook.php at line 5
+  Backtrace :
+  inc\plugin.class.php:269                           Plugin::includeHook()
+  inc\plugin.class.php:776                           Plugin::load()
+  :                                                  Plugin->activate()
+  inc\marketplace\controller.class.php:460           call_user_func()
+  inc\marketplace\controller.class.php:405           Glpi\Marketplace\Controller->setPluginState()
+  ajax\marketplace.php:83                            Glpi\Marketplace\Controller->enablePlugin()
+  
+[2021-12-05 22:43:46] glpiphplog.CRITICAL:   *** Uncaught Exception ParseError: syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in C:\xampp\htdocs\glpi\plugins\notification\hook.php at line 5
+  Backtrace :
+  inc\plugin.class.php:269                           Plugin::includeHook()
+  inc\plugin.class.php:776                           Plugin::load()
+  :                                                  Plugin->activate()
+  inc\marketplace\controller.class.php:460           call_user_func()
+  inc\marketplace\controller.class.php:405           Glpi\Marketplace\Controller->setPluginState()
+  ajax\marketplace.php:83                            Glpi\Marketplace\Controller->enablePlugin()
+  
+[2021-12-05 22:43:55] glpiphplog.CRITICAL:   *** Uncaught Exception ParseError: syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in C:\xampp\htdocs\glpi\plugins\notification\hook.php at line 5
+  Backtrace :
+  inc\plugin.class.php:269                           Plugin::includeHook()
+  inc\plugin.class.php:2238                          Plugin::load()
+  inc\search.class.php:6514                          Plugin::getSpecificValueToDisplay()
+  inc\search.class.php:1453                          Search::giveItem()
+  inc\search.class.php:320                           Search::constructData()
+  inc\search.class.php:95                            Search::getDatas()
+  inc\search.class.php:80                            Search::showList()
+  front\plugin.php:54                                Search::show()
+  
+[2021-12-05 22:44:31] glpiphplog.CRITICAL:   *** Uncaught Exception ParseError: syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in C:\xampp\htdocs\glpi\plugins\notification\hook.php at line 5
+  Backtrace :
+  inc\plugin.class.php:269                           Plugin::includeHook()
+  inc\plugin.class.php:776                           Plugin::load()
+  :                                                  Plugin->activate()
+  inc\marketplace\controller.class.php:460           call_user_func()
+  inc\marketplace\controller.class.php:405           Glpi\Marketplace\Controller->setPluginState()
+  ajax\marketplace.php:83                            Glpi\Marketplace\Controller->enablePlugin()
+  
+[2021-12-05 22:47:40] glpiphplog.CRITICAL:   *** Uncaught Exception ParseError: syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in C:\xampp\htdocs\glpi\plugins\notification\hook.php at line 5
+  Backtrace :
+  inc\plugin.class.php:269                           Plugin::includeHook()
+  inc\plugin.class.php:776                           Plugin::load()
+  :                                                  Plugin->activate()
+  inc\marketplace\controller.class.php:460           call_user_func()
+  inc\marketplace\controller.class.php:405           Glpi\Marketplace\Controller->setPluginState()
+  ajax\marketplace.php:83                            Glpi\Marketplace\Controller->enablePlugin()
+  
+[2021-12-05 22:54:47] glpiphplog.WARNING:   *** PHP User Warning (512): Unable to load plugin "notification" informations. in C:\xampp\htdocs\glpi\inc\plugin.class.php at line 460
+  Backtrace :
+  inc\plugin.class.php:460                           trigger_error()
+  inc\plugin.class.php:421                           Plugin->checkPluginState()
+  front\marketplace.php:40                           Plugin->checkStates()
+  
+[2021-12-05 22:54:51] glpiphplog.ERROR: Plugin::getInfo() in C:\xampp\htdocs\glpi\inc\plugin.class.php line 1473
+plugin_version_notification method must be defined!  {"user":"2@DESKTOP-10B0EO1"} 
+[2021-12-05 22:56:01] glpiphplog.WARNING:   *** PHP User Warning (512): Unable to load plugin "notification" informations. in C:\xampp\htdocs\glpi\inc\plugin.class.php at line 460
+  Backtrace :
+  inc\plugin.class.php:460                           trigger_error()
+  inc\plugin.class.php:421                           Plugin->checkPluginState()
+  front\marketplace.php:40                           Plugin->checkStates()
+  
+[2021-12-05 22:56:04] glpiphplog.ERROR: Plugin::getInfo() in C:\xampp\htdocs\glpi\inc\plugin.class.php line 1473
+plugin_version_notification method must be defined!  {"user":"2@DESKTOP-10B0EO1"} 
+[2021-12-05 22:56:52] glpiphplog.WARNING:   *** PHP User Warning (512): Unable to load plugin "notification" informations. in C:\xampp\htdocs\glpi\inc\plugin.class.php at line 460
+  Backtrace :
+  inc\plugin.class.php:460                           trigger_error()
+  inc\plugin.class.php:421                           Plugin->checkPluginState()
+  front\marketplace.php:40                           Plugin->checkStates()
+  
+[2021-12-05 22:56:58] glpiphplog.ERROR: Plugin::getInfo() in C:\xampp\htdocs\glpi\inc\plugin.class.php line 1473
+plugin_version_notification method must be defined!  {"user":"2@DESKTOP-10B0EO1"} 
+[2021-12-05 22:57:11] glpiphplog.CRITICAL:   *** Uncaught Exception UnexpectedValueException: DirectoryIterator::__construct(C:\xampp\htdocs\glpi/plugins,C:\xampp\htdocs\glpi/plugins): Le fichier sp�cifi� est introuvable. (code: 2) in C:\xampp\htdocs\glpi\inc\plugin.class.php at line 600
+  Backtrace :
+  inc\plugin.class.php:600                           DirectoryIterator->__construct()
+  inc\plugin.class.php:449                           Plugin->getNewInfoAndDirBasedOnOldName()
+  inc\plugin.class.php:421                           Plugin->checkPluginState()
+  front\marketplace.php:40                           Plugin->checkStates()
+  
+[2021-12-05 22:57:17] glpiphplog.CRITICAL:   *** Uncaught Exception UnexpectedValueException: DirectoryIterator::__construct(C:\xampp\htdocs\glpi/plugins,C:\xampp\htdocs\glpi/plugins): Le fichier sp�cifi� est introuvable. (code: 2) in C:\xampp\htdocs\glpi\inc\plugin.class.php at line 600
+  Backtrace :
+  inc\plugin.class.php:600                           DirectoryIterator->__construct()
+  inc\plugin.class.php:449                           Plugin->getNewInfoAndDirBasedOnOldName()
+  inc\plugin.class.php:421                           Plugin->checkPluginState()
+  front\marketplace.php:40                           Plugin->checkStates()
+  
+[2021-12-05 22:57:21] glpiphplog.CRITICAL:   *** Uncaught Exception UnexpectedValueException: DirectoryIterator::__construct(C:\xampp\htdocs\glpi/plugins,C:\xampp\htdocs\glpi/plugins): Le chemin d�acc�s sp�cifi� est introuvable. (code: 3) in C:\xampp\htdocs\glpi\inc\plugin.class.php at line 600
+  Backtrace :
+  inc\plugin.class.php:600                           DirectoryIterator->__construct()
+  inc\plugin.class.php:449                           Plugin->getNewInfoAndDirBasedOnOldName()
+  inc\plugin.class.php:421                           Plugin->checkPluginState()
+  front\marketplace.php:40                           Plugin->checkStates()
+  
+[2021-12-05 22:57:36] glpiphplog.WARNING:   *** PHP User Warning (512): Unable to load plugin "notification" informations. in C:\xampp\htdocs\glpi\inc\plugin.class.php at line 460
+  Backtrace :
+  inc\plugin.class.php:460                           trigger_error()
+  inc\plugin.class.php:421                           Plugin->checkPluginState()
+  front\marketplace.php:40                           Plugin->checkStates()
+  
+[2021-12-05 22:57:39] glpiphplog.ERROR: Plugin::getInfo() in C:\xampp\htdocs\glpi\inc\plugin.class.php line 1473
+plugin_version_notification method must be defined!  {"user":"2@DESKTOP-10B0EO1"} 
+[2021-12-05 23:00:45] glpiphplog.ERROR: Plugin::getInfo() in C:\xampp\htdocs\glpi\inc\plugin.class.php line 1473
+plugin_version_aziz method must be defined!  {"user":"2@DESKTOP-10B0EO1"} 
+[2021-12-05 23:00:51] glpiphplog.ERROR: Plugin::getInfo() in C:\xampp\htdocs\glpi\inc\plugin.class.php line 1473
+plugin_version_aziz method must be defined!  {"user":"2@DESKTOP-10B0EO1"} 
+[2021-12-05 23:01:30] glpiphplog.ERROR: Plugin::getInfo() in C:\xampp\htdocs\glpi\inc\plugin.class.php line 1473
+plugin_version_aziz method must be defined!  {"user":"2@DESKTOP-10B0EO1"} 
+[2021-12-05 23:01:39] glpiphplog.ERROR: Plugin::getInfo() in C:\xampp\htdocs\glpi\inc\plugin.class.php line 1473
+plugin_version_aziz method must be defined!  {"user":"2@DESKTOP-10B0EO1"} 
+[2021-12-05 23:01:41] glpiphplog.ERROR: Plugin::getInfo() in C:\xampp\htdocs\glpi\inc\plugin.class.php line 1473
+plugin_version_aziz method must be defined!  {"user":"2@DESKTOP-10B0EO1"} 
+[2021-12-05 23:01:54] glpiphplog.ERROR: Plugin::getInfo() in C:\xampp\htdocs\glpi\inc\plugin.class.php line 1473
+plugin_version_aziz method must be defined!  {"user":"2@DESKTOP-10B0EO1"} 
+[2021-12-05 23:01:55] glpiphplog.ERROR: Plugin::getInfo() in C:\xampp\htdocs\glpi\inc\plugin.class.php line 1473
+plugin_version_aziz method must be defined!  {"user":"2@DESKTOP-10B0EO1"} 
+[2021-12-05 23:01:56] glpiphplog.ERROR: Plugin::getInfo() in C:\xampp\htdocs\glpi\inc\plugin.class.php line 1473
+plugin_version_aziz method must be defined!  {"user":"2@DESKTOP-10B0EO1"} 
+[2021-12-05 23:02:29] glpiphplog.ERROR: Plugin::getInfo() in C:\xampp\htdocs\glpi\inc\plugin.class.php line 1473
+plugin_version_aziz method must be defined!  {"user":"2@DESKTOP-10B0EO1"} 
+[2021-12-05 23:04:06] glpiphplog.ERROR: Plugin::getInfo() in C:\xampp\htdocs\glpi\inc\plugin.class.php line 1473
+plugin_version_aziz method must be defined!  {"user":"2@DESKTOP-10B0EO1"} 
+[2021-12-05 23:04:29] glpiphplog.ERROR: Plugin::getInfo() in C:\xampp\htdocs\glpi\inc\plugin.class.php line 1473
+plugin_version_aziz method must be defined!  {"user":"2@DESKTOP-10B0EO1"} 
+[2021-12-05 23:04:57] glpiphplog.ERROR: Plugin::getInfo() in C:\xampp\htdocs\glpi\inc\plugin.class.php line 1473
+plugin_version_aziz method must be defined!  {"user":"2@DESKTOP-10B0EO1"} 
+[2021-12-05 23:13:00] glpiphplog.ALERT:   *** PHP Compile Error (64): Cannot redeclare plugin_init_aziz() (previously declared in C:\xampp\htdocs\glpi\plugins\Aziz\setup.php:9) in C:\xampp\htdocs\glpi\plugins\aziz\setup.php at line 12  
+[2021-12-05 23:13:46] glpiphplog.WARNING:   *** PHP User Warning (512): Plugin "aziz" version changed. It has been deactivated as its update process has to be launched. in C:\xampp\htdocs\glpi\inc\plugin.class.php at line 500
+  Backtrace :
+  inc\plugin.class.php:500                           trigger_error()
+  inc\plugin.class.php:421                           Plugin->checkPluginState()
+  front\marketplace.php:40                           Plugin->checkStates()
+  
+[2021-12-06 01:10:31] glpiphplog.WARNING:   *** PHP Warning (2): require_once(hook.php): failed to open stream: No such file or directory in C:\xampp\htdocs\glpi\plugins\aziz\setup.php at line 33
+  Backtrace :
+  plugins\aziz\setup.php:33                          require_once()
+  inc\plugin.class.php:1505                          include_once()
+  inc\plugin.class.php:1507                          Plugin->{closure}()
+  inc\plugin.class.php:438                           Plugin->getInformationsFromDirectory()
+  inc\plugin.class.php:421                           Plugin->checkPluginState()
+  inc\plugin.class.php:208                           Plugin->checkStates()
+  inc\includes.php:106                               Plugin->init()
+  index.php:55                                       include()
+  
+[2021-12-06 01:10:31] glpiphplog.ALERT:   *** PHP Compile Error (64): require_once(): Failed opening required 'hook.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\glpi\plugins\aziz\setup.php at line 33  
+[2021-12-06 12:33:48] glpiphplog.CRITICAL:   *** Uncaught Exception ParseError: syntax error, unexpected '}' in C:\xampp\htdocs\glpi\plugins\aziz\hook.php at line 11
+  Backtrace :
+  inc\plugin.class.php:1549                          Plugin::includeHook()
+  inc\search.class.php:6991                          Plugin::getAddSearchOptions()
+  inc\itiltemplate.class.php:260                     Search::getOptions()
+  inc\commonitilobject.class.php:796                 ITILTemplate->getAllowedFieldsNames()
+  inc\ticket.class.php:974                           CommonITILObject->handleTemplateFields()
+  inc\commondbtm.class.php:1456                      Ticket->prepareInputForUpdate()
+  inc\ticket.class.php:2332                          CommonDBTM->update()
+  inc\commonitilactor.class.php:382                  Ticket->updateDateMod()
+  inc\ticket_user.class.php:59                       CommonITILActor->post_addItem()
+  inc\commondbtm.class.php:1151                      Ticket_User->post_addItem()
+  inc\commonitilobject.class.php:1926                CommonDBTM->add()
+  inc\ticket.class.php:1924                          CommonITILObject->post_addItem()
+  inc\commondbtm.class.php:1151                      Ticket->post_addItem()
+  inc\api\api.class.php:1880                         CommonDBTM->add()
+  inc\api\apirest.class.php:271                      Glpi\Api\API->createItems()
+  apirest.php:53                                     Glpi\Api\APIRest->call()
+  
+[2021-12-06 12:33:57] glpiphplog.CRITICAL:   *** Uncaught Exception ParseError: syntax error, unexpected '}' in C:\xampp\htdocs\glpi\plugins\aziz\hook.php at line 11
+  Backtrace :
+  inc\plugin.class.php:1549                          Plugin::includeHook()
+  inc\search.class.php:6991                          Plugin::getAddSearchOptions()
+  inc\itiltemplate.class.php:260                     Search::getOptions()
+  inc\commonitilobject.class.php:796                 ITILTemplate->getAllowedFieldsNames()
+  inc\ticket.class.php:974                           CommonITILObject->handleTemplateFields()
+  inc\commondbtm.class.php:1456                      Ticket->prepareInputForUpdate()
+  inc\ticket.class.php:2332                          CommonDBTM->update()
+  inc\commonitilactor.class.php:382                  Ticket->updateDateMod()
+  inc\ticket_user.class.php:59                       CommonITILActor->post_addItem()
+  inc\commondbtm.class.php:1151                      Ticket_User->post_addItem()
+  inc\commonitilobject.class.php:1926                CommonDBTM->add()
+  inc\ticket.class.php:1924                          CommonITILObject->post_addItem()
+  inc\commondbtm.class.php:1151                      Ticket->post_addItem()
+  inc\api\api.class.php:1880                         CommonDBTM->add()
+  inc\api\apirest.class.php:271                      Glpi\Api\API->createItems()
+  apirest.php:53                                     Glpi\Api\APIRest->call()
+  
+[2021-12-06 12:34:08] glpiphplog.CRITICAL:   *** Uncaught Exception ParseError: syntax error, unexpected '}' in C:\xampp\htdocs\glpi\plugins\aziz\hook.php at line 11
+  Backtrace :
+  inc\plugin.class.php:1424                          Plugin::includeHook()
+  inc\plugin.class.php:1445                          Plugin::doOneHook()
+  inc\dropdown.class.php:990                         Plugin::getDropdowns()
+  inc\commondropdown.class.php:107                   Dropdown::getStandardDropdownItemTypes()
+  inc\html.class.php:1587                            CommonDropdown::getMenuContent()
+  inc\html.class.php:6980                            Html::generateMenuSession()
+  inc\html.class.php:1706                            Html::displayMainMenu()
+  front\ticket.form.php:239                          Html::header()
+  
+[2021-12-06 12:34:26] glpiphplog.CRITICAL:   *** Uncaught Exception ParseError: syntax error, unexpected '}' in C:\xampp\htdocs\glpi\plugins\aziz\hook.php at line 11
+  Backtrace :
+  inc\plugin.class.php:1424                          Plugin::includeHook()
+  inc\plugin.class.php:1445                          Plugin::doOneHook()
+  inc\dropdown.class.php:990                         Plugin::getDropdowns()
+  inc\commondropdown.class.php:107                   Dropdown::getStandardDropdownItemTypes()
+  inc\html.class.php:1587                            CommonDropdown::getMenuContent()
+  inc\html.class.php:6980                            Html::generateMenuSession()
+  inc\html.class.php:1706                            Html::displayMainMenu()
+  front\ticket.form.php:239                          Html::header()
+  
+[2021-12-06 12:34:30] glpiphplog.CRITICAL:   *** Uncaught Exception ParseError: syntax error, unexpected '}' in C:\xampp\htdocs\glpi\plugins\aziz\hook.php at line 11
+  Backtrace :
+  inc\plugin.class.php:1424                          Plugin::includeHook()
+  inc\plugin.class.php:1445                          Plugin::doOneHook()
+  inc\dropdown.class.php:990                         Plugin::getDropdowns()
+  inc\commondropdown.class.php:107                   Dropdown::getStandardDropdownItemTypes()
+  inc\html.class.php:1587                            CommonDropdown::getMenuContent()
+  inc\html.class.php:6980                            Html::generateMenuSession()
+  inc\html.class.php:1706                            Html::displayMainMenu()
+  front\ticket.form.php:239                          Html::header()
+  
+[2021-12-06 12:34:44] glpiphplog.CRITICAL:   *** Uncaught Exception ParseError: syntax error, unexpected '}' in C:\xampp\htdocs\glpi\plugins\aziz\hook.php at line 11
+  Backtrace :
+  inc\plugin.class.php:1424                          Plugin::includeHook()
+  inc\plugin.class.php:1445                          Plugin::doOneHook()
+  inc\dropdown.class.php:990                         Plugin::getDropdowns()
+  inc\commondropdown.class.php:107                   Dropdown::getStandardDropdownItemTypes()
+  inc\html.class.php:1587                            CommonDropdown::getMenuContent()
+  inc\html.class.php:6980                            Html::generateMenuSession()
+  inc\html.class.php:1706                            Html::displayMainMenu()
+  front\ticket.form.php:239                          Html::header()
+  
+[2021-12-06 12:37:02] glpiphplog.CRITICAL:   *** Uncaught Exception ParseError: syntax error, unexpected '}' in C:\xampp\htdocs\glpi\plugins\aziz\hook.php at line 11
+  Backtrace :
+  inc\plugin.class.php:1549                          Plugin::includeHook()
+  inc\search.class.php:6991                          Plugin::getAddSearchOptions()
+  inc\itiltemplate.class.php:260                     Search::getOptions()
+  inc\commonitilobject.class.php:1599                ITILTemplate->getAllowedFieldsNames()
+  inc\ticket.class.php:1544                          CommonITILObject->prepareInputForAdd()
+  inc\commondbtm.class.php:1110                      Ticket->prepareInputForAdd()
+  front\ticket.form.php:63                           CommonDBTM->add()
+  
+[2021-12-06 12:40:00] glpiphplog.CRITICAL:   *** Uncaught Exception ParseError: syntax error, unexpected '}', expecting ',' or ';' in C:\xampp\htdocs\glpi\plugins\aziz\hook.php at line 11
+  Backtrace :
+  inc\plugin.class.php:1549                          Plugin::includeHook()
+  inc\search.class.php:6991                          Plugin::getAddSearchOptions()
+  inc\itiltemplate.class.php:260                     Search::getOptions()
+  inc\commonitilobject.class.php:1599                ITILTemplate->getAllowedFieldsNames()
+  inc\ticket.class.php:1544                          CommonITILObject->prepareInputForAdd()
+  inc\commondbtm.class.php:1110                      Ticket->prepareInputForAdd()
+  front\ticket.form.php:63                           CommonDBTM->add()
+  
+[2021-12-06 12:43:04] glpiphplog.WARNING:   *** PHP Warning (2): include(C:2xampp/htdocs/lar/Send_FCM_Notifications.php): failed to open stream: No such file or directory in C:\xampp\htdocs\glpi\plugins\aziz\hook.php at line 9
+  Backtrace :
+  plugins\aziz\hook.php:9                            include()
+  inc\plugin.class.php:1350                          plugin_item_add_aziz()
+  inc\commondbtm.class.php:1185                      Plugin::doHook()
+  front\ticket.form.php:63                           CommonDBTM->add()
+  
+[2021-12-06 12:43:04] glpiphplog.WARNING:   *** PHP Warning (2): include(): Failed opening 'C:2xampp/htdocs/lar/Send_FCM_Notifications.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\glpi\plugins\aziz\hook.php at line 9
+  Backtrace :
+  plugins\aziz\hook.php:9                            include()
+  inc\plugin.class.php:1350                          plugin_item_add_aziz()
+  inc\commondbtm.class.php:1185                      Plugin::doHook()
+  front\ticket.form.php:63                           CommonDBTM->add()
+  
+[2021-12-06 12:43:21] glpiphplog.WARNING:   *** PHP Warning (2): include(C:2xampp/htdocs/lar/Send_FCM_Notifications.php): failed to open stream: No such file or directory in C:\xampp\htdocs\glpi\plugins\aziz\hook.php at line 9
+  Backtrace :
+  plugins\aziz\hook.php:9                            include()
+  inc\plugin.class.php:1350                          plugin_item_add_aziz()
+  inc\commondbtm.class.php:1185                      Plugin::doHook()
+  front\ticket.form.php:63                           CommonDBTM->add()
+  
+[2021-12-06 12:43:21] glpiphplog.WARNING:   *** PHP Warning (2): include(): Failed opening 'C:2xampp/htdocs/lar/Send_FCM_Notifications.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\glpi\plugins\aziz\hook.php at line 9
+  Backtrace :
+  plugins\aziz\hook.php:9                            include()
+  inc\plugin.class.php:1350                          plugin_item_add_aziz()
+  inc\commondbtm.class.php:1185                      Plugin::doHook()
+  front\ticket.form.php:63                           CommonDBTM->add()
+  
+[2021-12-06 12:44:42] glpiphplog.WARNING:   *** PHP Warning (2): include(C:2xampp/htdocs/lar/Send_FCM_Notifications.php): failed to open stream: No such file or directory in C:\xampp\htdocs\glpi\plugins\aziz\hook.php at line 9
+  Backtrace :
+  plugins\aziz\hook.php:9                            include()
+  inc\plugin.class.php:1350                          plugin_item_add_aziz()
+  inc\commondbtm.class.php:1185                      Plugin::doHook()
+  front\ticket.form.php:63                           CommonDBTM->add()
+  
+[2021-12-06 12:44:42] glpiphplog.WARNING:   *** PHP Warning (2): include(): Failed opening 'C:2xampp/htdocs/lar/Send_FCM_Notifications.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\glpi\plugins\aziz\hook.php at line 9
+  Backtrace :
+  plugins\aziz\hook.php:9                            include()
+  inc\plugin.class.php:1350                          plugin_item_add_aziz()
+  inc\commondbtm.class.php:1185                      Plugin::doHook()
+  front\ticket.form.php:63                           CommonDBTM->add()
+  
+[2021-12-08 19:35:30] glpiphplog.WARNING:   *** PHP Warning (2): mysqli::real_connect(): (HY000/2002): Aucune connexion n�a pu �tre �tablie car l�ordinateur cible l�a express�ment refus�e.
+ in C:\xampp\htdocs\glpi\inc\dbmysql.class.php at line 185
+  Backtrace :
+  inc\dbmysql.class.php:185                          mysqli->real_connect()
+  inc\dbmysql.class.php:147                          DBmysql->connect()
+  inc\dbconnection.class.php:192                     DBmysql->__construct()
+  inc\dbconnection.class.php:274                     DBConnection::switchToMaster()
+  inc\config.php:85                                  DBConnection::establishDBConnection()
+  inc\includes.php:48                                include_once()
+  front\central.php:33                               include()
+  
+[2021-12-08 19:35:34] glpiphplog.WARNING:   *** PHP Warning (2): mysqli::real_connect(): (HY000/2002): Aucune connexion n�a pu �tre �tablie car l�ordinateur cible l�a express�ment refus�e.
+ in C:\xampp\htdocs\glpi\inc\dbmysql.class.php at line 185
+  Backtrace :
+  inc\dbmysql.class.php:185                          mysqli->real_connect()
+  inc\dbmysql.class.php:147                          DBmysql->connect()
+  inc\dbconnection.class.php:192                     DBmysql->__construct()
+  inc\dbconnection.class.php:274                     DBConnection::switchToMaster()
+  inc\config.php:85                                  DBConnection::establishDBConnection()
+  inc\includes.php:48                                include_once()
+  front\central.php:33                               include()
+  
